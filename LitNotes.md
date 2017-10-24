@@ -6,7 +6,7 @@
 
 # Table of contents    
 * [Page 1: ](#id-section1). 2017-10-24. Cottrell and Horton 2011 Euschistus spp. aggregation pheromone
-* [Page 6:  ](#id-section6).
+* [Page 2:  ](#id-section2). 2017-10-24. Burrack 2007 OLF in CA: Phenology, Cultivar Preference, Reproductive Biology 
 * [Page 7:  ](#id-section7).
 * [Page 8:  ](#id-section8).
 * [Page 9:  ](#id-section9).
@@ -207,7 +207,7 @@
 
 <div id='id-section1'/>    
 ​    
-### Page 1: 2016-02017-10-24. Cottrell and Horton 2011
+### Page 1: 2017-10-24. Cottrell and Horton 2011
 
 
 
@@ -241,7 +241,15 @@ Cottrell TE, Horton DL. 2011. Trap capture of brown and disky stink bugs (Hemipt
 
 <div id='id-section2'/>    
 ​    
-### Page 2: 2016-06-16 title        
+### Page 2: 2017-10-24 Burrack 2007         
+
+*Citation information*
+
+Burrack HJ. 2007. The olive fruit fly (*Bactrocera oleae*(Gmelin)) in California: Phenology, cultivar preference, and reproductive biology. Phd Dissertation. 1-125. 
+
+![](/Users/eleanorphillips/Desktop/Picture1.jpg)
+
+Insert table of locations like above? Maybe…….
 
 ------
 
