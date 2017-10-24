@@ -5,11 +5,7 @@
 
 
 # Table of contents    
-* [Page 1: ](#id-section1). 2017-10-24. Hanging out with Ele
-* [Page 2:   2016-6-16](#id-section2). Title 3
-* [Page 3:  ](#id-section3).
-* [Page 4:  ](#id-section4).
-* [Page 5:  ](#id-section5).
+* [Page 1: ](#id-section1). 2017-10-24. Cottrell and Horton 2011 Euschistus spp. aggregation pheromone
 * [Page 6:  ](#id-section6).
 * [Page 7:  ](#id-section7).
 * [Page 8:  ](#id-section8).
@@ -211,35 +207,18 @@
 
 <div id='id-section1'/>    
 ​    
-### Page 1: 2016-02017-10-24. Hanging out with Ele
+### Page 1: 2016-02017-10-24. Cottrell and Horton 2011
 
 
 
+*Citation information*
 
+Cottrell TE, Horton DL. 2011. Trap capture of brown and disky stink bugs (Hemiptera: Pentatomidae) as affected by pheromone dosage in dispensers and dispenser source. Journal of Entomological Science 46: 135-147. 
 
-dkafdsjhfahfhiowefweio
-
-fdohfw
-
-
-
-* list of stuff
-* list of stuff 2
-
-
-
-1. ​
-2. 3ww
-3. ​
-
-
-
-
-
-1. ​
-2. fdsf
-3. ​
-
+* *Euschistus* spp. aggregation pheromone methyl (E,Z) -2,4-decadienoate
+* Monitored for 4 weeks 
+* Treatment means separated by Tuley's Honesty Significant Difference test when a treatment difference was detected 
+* Wind direction - DTA 
 
 
 [A cool website i found](https://github.com/adnguyen/Notebooks_and_Protocols/blob/master/Online_notebook_template.md#id-section143)
