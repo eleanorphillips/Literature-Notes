@@ -1,15 +1,10 @@
-# Species responses to climate change project
+# MS Thesis Lit Review Notes
 
-### Author:   ANTdrew D. Nguyen     
-### Affiliation     
-
-## Projects title/descriptions
-
-## Date started:  
-## Date end:  
+### Author:   Eleanor Phillips     
 
 
-# Table of contents (for 200 entries)    
+
+# Table of contents    
 * [Page 1: ](#id-section1). 2017-10-24. Hanging out with Ele
 * [Page 2:   2016-6-16](#id-section2). Title 3
 * [Page 3:  ](#id-section3).
