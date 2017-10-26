@@ -7,7 +7,7 @@
 # Table of contents    
 * [Page 1: ](#id-section1). 2017-10-24. Cottrell and Horton 2011 Euschistus spp. aggregation pheromone
 * [Page 2:  ](#id-section2). 2017-10-24. Burrack 2007 OLF in CA: Phenology, Cultivar Preference, Reproductive Biology 
-* [Page 7:  ](#id-section7).
+* [Page 3:  ](#id-section3). 2017-10-25 Calvente et al. 2004. Analysing natural div fungi, commercial cultivar inoculation 
 * [Page 8:  ](#id-section8).
 * [Page 9:  ](#id-section9).
 * [Page 10:  ](#id-section10).
@@ -255,7 +255,19 @@ Insert table of locations like above? Maybe…….
 
 <div id='id-section3'/>    
 ​    
-### Page 3:  
+### Page 3: 2017-10-25 Calvente et al. 2004  
+
+*Citation information*
+
+Calvente R, Cano C, Ferrol N, Azcón-Aguilar C, Barea JM. 2004. Analysing natural diversity of arbuscular mycorrhizal fungi inolive tree (*Olea europaea* L.) plantations and assessment ofthe effectiveness of native fungal isolates as inoculants for commercial cultivars of olive plantlets. Applied Soil Ecology 26: 11-19. 
+
+- Olives known for forming arbuscular (fungus penetrates coritcal cells of roots of a vascular plant) mycorrhiza
+- Critical role in plant nutrition, ability of external mycelium to reach larger volume of soil than non-arbuscular mycorrhizal roots. Enhanced mineral takeup.
+- Interactions w/plant propagation protocols in commercial cultivars
+- Arbequina and Leccino varieties chosen
+  - Mycorrhizal dependency & root colonization higher in Arbequina than Leccino 
+  - AM fungal diversity low in ag field settings
+  - *G. viscosum* and *G. traradices* showed most imporved growth of both olive varieties - growth in plant height (cm) shoot fresh weight (g), root fresh weight (g)
 
 ------
 
