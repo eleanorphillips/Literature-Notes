@@ -8,7 +8,7 @@
 * [Page 1: ](#id-section1). 2017-10-24. Cottrell and Horton 2011 Euschistus spp. aggregation pheromone
 * [Page 2:  ](#id-section2). 2017-10-24. Burrack 2007 OLF in CA: Phenology, Cultivar Preference, Reproductive Biology 
 * [Page 3:  ](#id-section3). 2017-10-25 Calvente et al. 2004. Analysing natural div fungi, commercial cultivar inoculation 
-* [Page 8:  ](#id-section8).
+* [Page 4:  ](#id-section4). 2017-10-26 Báidez et al. 2007 *Verticillium dahilae* effects on olive xylem 
 * [Page 9:  ](#id-section9).
 * [Page 10:  ](#id-section10).
 * [Page 11:  ](#id-section11).
@@ -273,7 +273,28 @@ Calvente R, Cano C, Ferrol N, Azcón-Aguilar C, Barea JM. 2004. Analysing natura
 
 <div id='id-section4'/>    
 ​    
-### Page 4:  
+### Page 4: 2017-10-26 Báidez et al 2007   
+
+*Citation information*
+
+Báidez AG, Gómez G, Del Río JA, Ortuño A. 2007. Dysfuctionality of the xylem in *Olea europaea* L. plants associated with the infection process by *Verticillium dahliae* Kleb. role of phenolic compounds in plant defense mechanism. Journal of Agricultural and Food Chemistry 55: 3373-3377. 
+
+- *Verticillium dahlie* Kleb. causes verticilosis
+  - most widely found disease in olive globally 
+  - Affects range from less productive trees to tree death/destruction
+  - Can grow in soil as microsclerotia
+- Picual most commonly grown variety worldwide
+  - Oil quality and agronomic characteristics desireable, but very susceptible to *V. dahilie* 
+- Phenolic secondary metabolites = resistance to oil autoxidation, organoleptic properties of oil
+  - May inhibit growth of bacteria
+    - *Lactobacillus plantarum*, *Leuconostoc mesenteroides*
+    - Also fungi in genus *Phytophthora*
+  - Inc levels of secondary metabolites = natural disease prevention 
+- First step of olive plants when infected is quick accumulation of phenols at infection site, restriction and slowing pathogen growth
+- rutin most antifungal, then oleuropein, tyros. Lowest antifungal = *p*-coumaric acid, catechin 
+  - inhibited radial growht of fungus 
+  - much reduced sporulation 
+  - increased thickness of hyphal wall (250% increase)
 
 ------
 
