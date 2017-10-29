@@ -9,7 +9,7 @@
 * [Page 2:  ](#id-section2). 2017-10-24. Burrack 2007 OLF in CA: Phenology, Cultivar Preference, Reproductive Biology 
 * [Page 3:  ](#id-section3). 2017-10-25 Calvente et al. 2004. Analysing natural div fungi, commercial cultivar inoculation 
 * [Page 4:  ](#id-section4). 2017-10-26 Báidez et al. 2007 *Verticillium dahilae* effects on olive xylem 
-* [Page 9:  ](#id-section9).
+* [Page 5:  ](#id-section5). 2017-10-29 Mkize et al. 2008 A survey of fruit-feeding insects and their parasitoids occurring on wild olives in S Africa
 * [Page 10:  ](#id-section10).
 * [Page 11:  ](#id-section11).
 * [Page 12:  ](#id-section12).
@@ -300,7 +300,27 @@ Báidez AG, Gómez G, Del Río JA, Ortuño A. 2007. Dysfuctionality of the xylem
 
 <div id='id-section5'/>    
 ​    
-### Page 5:  
+### Page 5: 2017-10-29 Mkize et al. 2008  
+
+*Citation information*
+
+Mkize N, Hoelmer KA, Villet MH. 2008. A survey of fruit-feeding insects and their parasitoids occurring on wild olives, Olea europaea ssp. cuspidata, in the Eastern Cape of South Africa. Biocontrol Science and Technology 18: 991-1004. 
+
+- *Bactrocra oleae* and *Bactrocera biguttula* most intgercepted.
+
+- Low infestation (usually below 8%)
+
+- Moths of genus *Palpita* also ID d  jasmine moth 
+
+  - not associated w/parasitoids
+
+- Spp of Brachonid wasp parasitoids sampled 
+
+  - Levels of parasitism ranged from 7-83%
+
+- Moe extensive longer time study due to irregularity of fruiting to determine key pests 
+
+   
 
 ------
 
