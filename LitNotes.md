@@ -10,7 +10,7 @@
 * [Page 3:  ](#id-section3). 2017-10-25 Calvente et al. 2004. Analysing natural div fungi, commercial cultivar inoculation 
 * [Page 4:  ](#id-section4). 2017-10-26 Báidez et al. 2007 *Verticillium dahilae* effects on olive xylem 
 * [Page 5:  ](#id-section5). 2017-10-29 Mkize et al. 2008 A survey of fruit-feeding insects and their parasitoids occurring on wild olives in S Africa
-* [Page 10:  ](#id-section10).
+* [Page 6:  ](#id-section6).2017-10-30 Mekuria et al. 2001 ID of genetic markers & Lin to olive leaf spot resistance/susceptibility 
 * [Page 11:  ](#id-section11).
 * [Page 12:  ](#id-section12).
 * [Page 13:  ](#id-section13).
@@ -326,7 +326,15 @@ Mkize N, Hoelmer KA, Villet MH. 2008. A survey of fruit-feeding insects and thei
 
 <div id='id-section6'/>    
 ​    
-### Page 6:  
+### Page 6: 2017-10-30 Mekuria et al. 2001  
+
+*Citation information*
+
+Mekuria GT, Collins G, Sedgley M. 2001. Identification of genetic markers in olive linked to olive leaf spot resistance and susceptibility. Journal of American Society for Horticultural Science 126: 305-308. 
+
+- fungal pathogen *Spilocea oleaginea* Cast. = olive leaf spot 
+  - aka peacock spot, peacock eye, bird's eye spot
+- ​
 
 ------
 
