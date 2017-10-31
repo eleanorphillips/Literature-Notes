@@ -11,7 +11,7 @@
 * [Page 4:  ](#id-section4). 2017-10-26 Báidez et al. 2007 *Verticillium dahilae* effects on olive xylem 
 * [Page 5:  ](#id-section5). 2017-10-29 Mkize et al. 2008 A survey of fruit-feeding insects and their parasitoids occurring on wild olives in S Africa
 * [Page 6:  ](#id-section6).2017-10-30 Mekuria et al. 2001 ID of genetic markers & Lin to olive leaf spot resistance/susceptibility 
-* [Page 11:  ](#id-section11).
+* [Page 7:  ](#id-section7).2017-10-31 Benelli and Canale 2016 Aggressive behavior/female fruit fly guarding against parasitoids
 * [Page 12:  ](#id-section12).
 * [Page 13:  ](#id-section13).
 * [Page 14:  ](#id-section14).
@@ -320,7 +320,6 @@ Mkize N, Hoelmer KA, Villet MH. 2008. A survey of fruit-feeding insects and thei
 
 - Moe extensive longer time study due to irregularity of fruiting to determine key pests 
 
-   
 
 ------
 
@@ -340,7 +339,29 @@ Mekuria GT, Collins G, Sedgley M. 2001. Identification of genetic markers in oli
 
 <div id='id-section7'/>    
 ​    
-### Page 7:  
+### Page 7: 2017-10-31 Benelli and Canale 2016   
+
+*Citation information*
+
+Benelli G, Canale A. 2016. Aggressive behavior in olive fruit fly females: Oviposition site guarding against parasitic wasps.
+
+-  Behaviors included: wing-waving (91.67%), chased parasitoid (63.34%), head-butting (45%), boxing w/forelegs (26.6%) when live parasitoids *Psyttalia concollor* used
+
+-  Ethics statement on behavioral research and teaching hmmmm
+
+- Cultivar Frantoio 
+
+- highly effective at displacing parasitoids
+
+  - may be triggered by olfactory cues & walking behavior
+
+- limited knowledge on tephritid aggressive behavior towards natural enemies
+
+  ​
+
+
+
+
 
 ------
 
