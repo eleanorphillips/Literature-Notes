@@ -12,7 +12,7 @@
 * [Page 5:  ](#id-section5). 2017-10-29 Mkize et al. 2008 A survey of fruit-feeding insects and their parasitoids occurring on wild olives in S Africa
 * [Page 6:  ](#id-section6).2017-10-30 Mekuria et al. 2001 ID of genetic markers & Lin to olive leaf spot resistance/susceptibility 
 * [Page 7:  ](#id-section7).2017-10-31 Benelli and Canale 2016 Aggressive behavior/female fruit fly guarding against parasitoids
-* [Page 12:  ](#id-section12).
+* [Page 8:  ](#id-section8).2017-11-1 Erel et al. 2013 Impt of olive tree nutritional status on its productivity 
 * [Page 13:  ](#id-section13).
 * [Page 14:  ](#id-section14).
 * [Page 15:  ](#id-section15).
@@ -362,12 +362,32 @@ Benelli G, Canale A. 2016. Aggressive behavior in olive fruit fly females: Ovipo
 
 
 
-
 ------
 
 <div id='id-section8'/>    
 ​    
-### Page 8:  
+### Page 8: 2017-11-1 Erel et al. 2013  
+
+*Citation information*
+
+Erel R, Yermiyahu U, Van Opstal J, Ben-Gal A, Schwartz A, Dag A. 2013. The importance of olive (*Olea europaea* L.) tree nutritional status on its productivity. Scientia Horticulturae 159: 8-18. 
+
+- Not sufficient study of macronutrient availability w/flower & fruit set in perennials
+- Mineral analysis of leaves
+- High N levels = low fruit set (leaf N>1.8%)
+  - Intermediate N levels best
+- FLowering affected negatively when N<1.35%
+- Leaf P strongly & linearly related to rate of perfect flowers, fruit setg and total fruit production 
+- Andromonoecy = hermaphroditic and male flowers
+  - high cost of female expression
+- Fruit set usually reached six weeks after inflorescence 
+- Consider amount of precipitation before N application, or only when fruit is more 35 kg/tree.
+- Hypothesize that enhanced ratio of perfect flowers and high fruit set positively affected by carbohydrate availability 
+
+
+​			
+​		
+​	
 
 ------
 
