@@ -13,7 +13,7 @@
 * [Page 6:  ](#id-section6).2017-10-30 Mekuria et al. 2001 ID of genetic markers & Lin to olive leaf spot resistance/susceptibility 
 * [Page 7:  ](#id-section7).2017-10-31 Benelli and Canale 2016 Aggressive behavior/female fruit fly guarding against parasitoids
 * [Page 8:  ](#id-section8).2017-11-1 Erel et al. 2013 Impt of olive tree nutritional status on its productivity 
-* [Page 13:  ](#id-section13).
+* [Page 9:  ](#id-section9). 2017-11-3 Benito et al. 2013 Olive oil quality, ripening SHD Arbequina
 * [Page 14:  ](#id-section14).
 * [Page 15:  ](#id-section15).
 * [Page 16:  ](#id-section16).
@@ -393,7 +393,19 @@ Erel R, Yermiyahu U, Van Opstal J, Ben-Gal A, Schwartz A, Dag A. 2013. The impor
 
 <div id='id-section9'/>    
 ​    
-### Page 9:  
+### Page 9: 2017.11.3 Benito et al 2013   
+
+*Citation information*
+
+Benita M, Lasa JM, Gracia P, Oria R, Abenoza M, Varona L, Sánchez-Gimeno AC. 2013. Olive oil quality and ripening in super-high-density Arbequina orchard. Journal of Science of Food and Agriculture 93: 2207-2220. 
+
+- olive oil = well-balanced in fatty acids, mainly oleic acid, and biomolecules like vitamins and antioxidants make it beneficial for human health
+- chemical comp & quality influenced by geographical area (altitude, latitude, soil quality) and production system
+- high density = 200-600 trees/hectare
+- Super-high density = 1200-2500 trees/hectare 
+- Worldwide, Arbequina most common to plant intensively 
+- recommend harvest between October - November 
+- study in Spain 
 
 ------
 
