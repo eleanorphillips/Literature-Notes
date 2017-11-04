@@ -14,7 +14,7 @@
 * [Page 7:  ](#id-section7).2017-10-31 Benelli and Canale 2016 Aggressive behavior/female fruit fly guarding against parasitoids
 * [Page 8:  ](#id-section8).2017-11-1 Erel et al. 2013 Impt of olive tree nutritional status on its productivity 
 * [Page 9:  ](#id-section9). 2017-11-3 Benito et al. 2013 Olive oil quality, ripening SHD Arbequina
-* [Page 14:  ](#id-section14).
+* [Page 10:  ](#id-section10).2017-11-4 Grasso et al. 2017 OLF transcriptional response extended differences b/t tolerant & susceptible olive varieties
 * [Page 15:  ](#id-section15).
 * [Page 16:  ](#id-section16).
 * [Page 17:  ](#id-section17).
@@ -411,7 +411,18 @@ Benita M, Lasa JM, Gracia P, Oria R, Abenoza M, Varona L, Sánchez-Gimeno AC. 20
 
 <div id='id-section10'/>    
 ​    
-### Page 10:  
+### Page 10: 2017.11.4 Grasso et al. 2017  
+
+*Citation information*
+
+Grasso F, Coppola M, Carbone F, Baldoni L, Alagna F, Perrotta G, Pérez-Pulido AJ, Garonna A, Facella P, Daddiego L, Lopez L, Vitiello A, Rao R, Corrado G. 2017. The transcriptional response to the olive fruit fly (*Bactrocera oleae*) reveals extended differences between tolerant and susceptible olive (*Olea europaea* L.) varieties. PLoS ONE 12:1-19. doi: https://doi.org/10.1371/journal.pone.0183050
+
+-  Differences in fruit fly infestation and inductible responses 
+  - Biological functions include cellular processes, metabolic pathways, defence, oxidative stress responses, cellular structure, hormone signaling, primary and secondary metabolism 
+- Strong genetic role in olive inducible defense - may be possible to identify 
+
+​		
+​	
 
 ------
 
