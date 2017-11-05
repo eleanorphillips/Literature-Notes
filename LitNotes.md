@@ -15,10 +15,10 @@
 * [Page 8:  ](#id-section8).2017-11-1 Erel et al. 2013 Impt of olive tree nutritional status on its productivity 
 * [Page 9:  ](#id-section9). 2017-11-3 Benito et al. 2013 Olive oil quality, ripening SHD Arbequina
 * [Page 10:  ](#id-section10).2017-11-4 Grasso et al. 2017 OLF transcriptional response extended differences b/t tolerant & susceptible olive varieties
-* [Page 15:  ](#id-section15).
-* [Page 16:  ](#id-section16).
-* [Page 17:  ](#id-section17).
-* [Page 18:  ](#id-section18).
+* [Page 11:  ](#id-section11).2017.11.4 Weber et al. 2017 Chemical ecology of BMSB 
+* [Page 12:  ](#id-section12).2017.11.4 Kacar and Dursun 2015 Survey & abundance of Heteroptera in Olive in Turkey
+* [Page 13:  ](#id-section13). 2017.11.4 Kovanci and Kumral 2008 Insect Pests olive Bursa (Turkey)
+* [Page 14:  ](#id-section14).2017.11.4 Herz et al. 2005 Sustainable control of Lep pests in olive cultivation
 * [Page 19:  ](#id-section19).
 * [Page 20:  ](#id-section20).
 * [Page 21:  ](#id-section21).
@@ -428,25 +428,85 @@ Grasso F, Coppola M, Carbone F, Baldoni L, Alagna F, Perrotta G, Pérez-Pulido A
 
 <div id='id-section11'/>    
 ​    
-### Page 11:  
+### Page 11:2017.11.4 Weber et al. 2017  
+
+*Citation information*
+
+Weber DC, Morrison III WR, Khrimian A, Rice KB, Leskey TC, Rodriguez-Saona C, Nielsen AL, Blaauw BR. 2017. Chemical ecology of *Halyomorpha halys*: Discoveries and applications. Journal of Pest Science 90: 989-1008. 
+
+- Male-produced aggregation pheromone of *H halys* can be combined w/pheromone of *Plautia stali* for reliable attraction throughout growing season. 
+  - *P stali* is another Asian stink bug 
+- *H halys* polyphagous and highly mobile, not attracted solely by plant volatiles
+- in 2014, Khrimian et al. identified male-producing aggregation pheromone composed of two stereoisomers 
+- Many natural enemies use volatile chemicals produced by pentatomid hosts as kairomoes to locate the insects. (do not use the male BMSB aggregation pheromone to find BMSB eggs)
+- BMSB overwinters around autumn equinox in USA 
 
 ------
 
 <div id='id-section12'/>    
 ​    
-### Page 12:  
+### Page 12:2017.11.4 Kacar and Dursun 2015  
+
+*Citation information*
+
+Kacar G, Dursun A. 2015. Survey and abundance of suborder Heteroptera: Pest and beneficial species in olive groves of Turkey. Egyptian Journal of Biological Pest Control 25: 499-502. 
+
+- List of total specimens of Heteroptera
+  - Miridae, Anthocoridae, Lygaeidae, Pentatomidae, Coreidae, Cydnidae, Nabidae, Pyrrhocoridae, Reduviidae, Rhopalidae, Scutelleridae, Tingidae
+- Turkey 4th largest olive producer globally
+- Beaten into a Steiner funnel 
+- Twigs plucked from olive trees 
+  - Phytophagous plant bug *Calocoris trivialis*  (Miridae)
+  - *Anthocorus nemoralis* most common species - important predator 
+    - Similar findings in other studies in Turkey
 
 ------
 
 <div id='id-section13'/>    
 ​    
-### Page 13:  
+### Page 13:2017.11.4 Kovanci and Kumral 2008.   
+
+*Citation information*
+
+Kovanci B, Kumral NA. 2008. Insect pests in olive groves of Bursa (Turkey) Acta Horticulturae 791: 569-576. 
+
+- To determine olive insect pests and their distribution 
+- Main pests are *Prays oleae, Bactrocera oleae, Palpita unionalis, Euphyllura phillyreae, Saissetia oleae*
+  - Serious damage by *Prays oleae* - anthers(pollen containing part of flower) and fruit attacked
+  - *P unionalis* recently serious pest due to reduction of natural enemies by broad-spectrum insecticides 
+- Known phytophagous insects known to feed or develop on olive exceed 100 species 
+- Describe microscope used
+- Greatest number of species were Homoptera
+  - Coccidae, Aphalaridae, Pemphigidae, Diaspididae
+- Heteroptera
+  - Miridae, Pentatomidae
+- Lepidoptera
+  - Hyponomeutidae (olive moth), Pyrallidae, Gracillariidae
+- Diptera
+  - Tephritidae, Cecidomyiidae (larvae of *Dasyneura oleae* galleries in leaves, floral axes, soldom in pedicels or newly-formed fruit)(olive midge *Resseliella oleisuga* feed on cambium and inner bark in olive trees)
+  - *Thrips tabaci* found 
 
 ------
 
 <div id='id-section14'/>    
 ​    
-### Page 14:  
+### Page 14:2017.11.4 Herz et al. 2005  
+
+*Citation information*
+
+Herz A, Hassan SA, Hegazi E, Nasr FN, Youssef AA, Khafagi WE, Agamy E, Ksantini M, Jardak T, Mazomenos BE, Konstantopoulou MA, Torres L, Gonçalves F, Bento A, Pereira JA. 2005. Towards sustainable control of Lepidopterous pests in olive cultivation. Gesunde Pflanzen 57: 117-128. 
+
+- olive moth *Prays oleae*, jasmine moth *Palpita unionalis* key pests
+- use of pheromones for mating disruption
+  - improved monitoring
+- habitat mgmt for natural enemy enhancement
+- release of mass reared egg parasitoids form genus *Trichogramma*
+- *P unionalis* larvae attacks young leaves and flower buds
+- Olive tame most of water requirements from soil in spring and summer
+- important to remove weeds to reduce water losses ((López-Villalta 1996)) 
+- Islands of flowering plants did not significantly improve pest control 
+- Mating disruption worked well for olive moth 
+- Local, native strains of *Trichogramma* were significantly effective in control of Leps  
 
 ------
 
