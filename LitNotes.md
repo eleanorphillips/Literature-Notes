@@ -19,10 +19,10 @@
 * [Page 12:  ](#id-section12).2017.11.4 Kacar and Dursun 2015 Survey & abundance of Heteroptera in Olive in Turkey
 * [Page 13:  ](#id-section13). 2017.11.4 Kovanci and Kumral 2008 Insect Pests olive Bursa (Turkey)
 * [Page 14:  ](#id-section14).2017.11.4 Herz et al. 2005 Sustainable control of Lep pests in olive cultivation
-* [Page 19:  ](#id-section19).
-* [Page 20:  ](#id-section20).
-* [Page 21:  ](#id-section21).
-* [Page 22:  ](#id-section22).
+* [Page 15:  ](#id-section15).2017.11.5 Mansour et al. 2011 survey of scale insects in Tunisia 
+* [Page 16:  ](#id-section16).2017.11.5 Gutierrez et al. 2009 effects of climate warming on OLF & olive in CA and Italy
+* [Page 17:  ](#id-section17).2017.11.5 Bengochea et al. 2014 kaolin & copper non-target effects on Chrysoperla carnea in olive
+* [Page 18:  ](#id-section18).2017.11.5 Ruano et al. 2004 arthropods for eval of olive-orchard mgmt regimes
 * [Page 23:  ](#id-section23).
 * [Page 24:  ](#id-section24).
 * [Page 25:  ](#id-section25).
@@ -251,6 +251,28 @@ Burrack HJ. 2007. The olive fruit fly (*Bactrocera oleae*(Gmelin)) in California
 
 Insert table of locations like above? Maybe…….
 
+- phd dissertation 
+- threat, exotic species to table and oil olives
+- peak activity in spring and fall, delayed in coastal locations
+- fourt to five annual generations observed 
+  - three during olive production season (CA = May-Dec)
+  - two in winter months
+- McPhail traps captured more flies than other traps (three tested total)
+  - weekly sampled
+- Mission olives among most infested 
+  - Luca, Mission & Arbequina are planted
+- First detected in CA in 1998 (Rice 2000)
+  - 2002, in all olive growing areas of state (Collier and Van Steenwyk 2003)
+  - (Connell 2005) virtually all olives now produced in CA
+  - (Delrio et al. 1982, Ramos et al 1982) OLF do not orient to pheromones in late spring and early summer because no fruit to oviposit into
+    - May make OLF pheromone caps not useful until closer to fruiting in FL
+- Moderate, coastal temps of SD may account for absence of reproductively mature female OLF while other sites are 
+- *Spiroketal pheromone lure* **look up**
+- OLF pheromone blend = male attractice sex pheromone and aggregation pheromone (Haniotakis et al. 1991)
+- Olive susceptibility factors better predictor of infestation than trap captures
+- Arbequina had high pupal yield in greenhouse experiments 
+  - Maintenance protocol for rearing OLF in Appendix 
+
 ------
 
 <div id='id-section3'/>    
@@ -421,8 +443,8 @@ Grasso F, Coppola M, Carbone F, Baldoni L, Alagna F, Perrotta G, Pérez-Pulido A
   - Biological functions include cellular processes, metabolic pathways, defence, oxidative stress responses, cellular structure, hormone signaling, primary and secondary metabolism 
 - Strong genetic role in olive inducible defense - may be possible to identify 
 
-​		
-​	
+  ​	
+  ​
 
 ------
 
@@ -512,25 +534,94 @@ Herz A, Hassan SA, Hegazi E, Nasr FN, Youssef AA, Khafagi WE, Agamy E, Ksantini 
 
 <div id='id-section15'/>    
 ​    
-### Page 15:  
+### Page 15:2017.11.5 Mansour et al. 2011  
+
+*Citation information*
+
+Mansour R, Mkaouar K, Grissa Lebdi P, Suma A, Russo A. 2011. A survey of scale insects (Hemiptera: Coccoidea) occurring on olive groves in Tunisia. Journal of Entomological and Acarological Research 43: 315-322. 
+
+- 52 different groves
+- Six different scale insect spp on olive
+  - Armoured scales: *Aspidiotus nerri* Bouché, *Lepidosaohes ulmi* (L.), *Parlatoria oleae* (Colvée)
+  - Soft scales Saissetia oleae (Olivier), *Filippia follicularis* (Targioni Tozzetti) [new record]
+  - Mealybug *P. cycliger* most abundant spp in north eastern Tunisia
+  - Larvae of noctuid moth *Eublemma scitula* (Rambur) fed on *S. oleae* 
+  - Coccinellid *Chilocorus bipustulatus* L. Fed on *S oleae* and *A nerii*. 
+  - 2 hymenopteran parasitoids of *S oleae* were *Scutellista cyanea* Motschulsky [Pteromalidae] and *Metaphycus* spp [Encyrtidae]
+- *Saissetia olea* is believed to be native to South Africa
+- IPM goals
+- just one year, 2009 
+- Percentage of abundance/site of scales species at each site
+- *M. helvolus and M. lounsburyi* currently control biological control of black scale in Sardinian olive groves (Delrio & Foxi 2010)
 
 ------
 
 <div id='id-section16'/>    
 ​    
-### Page 16:  
+### Page 16: Guiterrez et al. 2009  
+
+*Citation information*
+
+Guiterrez AP, Ponti L, Cossu QA. 2009. Effects of climate warming on olive and olive fly (*Bactrocera oleae* (Gmelin)) in California and Italy. Climatic Change 95: 195-217. 
+
+- Drought tolerant, long-lived little response to photoperiod 
+- Limited more by high and low temps and less by soil water 
+  - Bongi 2002, Vitagliano and Sebastiani 2002, Fiorino 2003 
+- Freezingtemps lead to tree death
+  - Denney et al. 1985
+- 450˚ hours <7.5˚C are required to stimulate spring fruiting and flowering
+  - (Hartman and Opitz 1980, Mancuso et al. 2002, Orlandi et al. 2002, DeMelo-Abreu et al 2004)
+- Flowering~7-10 days
+- 4-5generations of OLF are possible in the summer if conditions are favorable
+  - Delrio and Prota 1988, Rice et al. 2003)
+- blooming occurred earliest in hotter areas of Southern CA and AZ
+- Insectsare poikilotherms and therefore increases in temperature will affect insectsdistribution and abundance geographically.
 
 ------
 
 <div id='id-section17'/>    
 ​    
-### Page 17:  
+### Page 17:2017.11.5 Bengochea et al. 2014  
+
+*Citation information*
+
+Bengochea P, Saelices R, Amor F, Adán A, Budia F, del Estal P, Viñuela E, Medina P. Non-target effects of kaolin and coppers applied on olive trees for the predatory lacewing *Chrysoperla carnea*. Biocontrol Science and Technology 24: 625-640. 
+
+- Copper salts used to control fungal diseases in olvie groves
+  - Also oviposition deterrentfor OLF control 
+  - May disrupt symbiosis ofOLF , larvae, and bacteria found in olive phylloplane
+    - Rosi et al 2007      
+- Organic-certified pesticides are becoming more popular, but they do not necessarily mean moreenvironmentally safe pest management. 
+- Importantt o evaluate ‘natural’ organic-certified pesticides’ effects on natural enemiesof pest arthropods
+- Lab experiments have been focused on 
+  - Braconid parasitoid *Chelonus inanitus*(L.)
+  - Anthocoridae *Anthocoris nemoralis*(L.) * 
+  - Coccinellidae *Chilocorus nigritus*(F.)
+  - Predator-parasitoidPteromalid *Scutellista cyanea*Motschulsky  
+- Previousstudies found conflicting effects of *C.carnea*; one study did not affect adults, one had significant effects, buttested adults and larvae 
+  - Porcel et al. 2011
+  - Pascual et al. 2010* *
 
 ------
 
 <div id='id-section18'/>    
 ​    
-### Page 18:  
+### Page 18:2017.11.5 Ruano et al. 2004  
+
+*Citation information*
+
+Ruano F, Lozano C, Garcia P, Peña A, Tinaut A, Pascual F, Campos M. 2004. Use of arthropods for the evaluation of the olive-orchard management regimes. Agricultural and Forest Entomology 6: 111-120. 
+
+- Arthropods can be used as indicators of environmental characteristics of agro-ecosystems. 
+- Ants have been documented in other studies as the most abundant taxonomic grouppresent in olive groves, and have been suggested to be indicators of pesticidepollution 
+  - Redolfi et al 1999, 
+- Morris 1997; Morris et al. 1999
+  - Claims of arthropod community in olive groves 
+- Highest # insect captures were in May and June, then July
+  - 20 orders
+- Maybe looking at soil samples from tree bases couldprovide information on nematodes in groves, ground arthropods, effects ofherbicides on community structure, etc..
+  - However, this study found more insecticides are appliedto canopy than soil. 
+- Some Taxonomic groups were excluded due to scarcepresence in groves.  
 
 ------
 
