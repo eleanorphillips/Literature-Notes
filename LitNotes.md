@@ -24,7 +24,7 @@
 * [Page 17:  ](#id-section17).2017.11.5 Bengochea et al. 2014 kaolin & copper non-target effects on Chrysoperla carnea in olive
 * [Page 18:  ](#id-section18).2017.11.5 Ruano et al. 2004 arthropods for eval of olive-orchard mgmt regimes
 * [Page 19:  ](#id-section19).2017.11.6 Doganlar et al. 2011 Pest status olive leaf gall midge, new midge, and parasitoid effectiveness in Hatay Turkey
-* [Page 24:  ](#id-section24).
+* [Page 20:  ](#id-section20).2017.11.7 Chliyeh et al. 2014 Pathogenicity 4 fungual spp in fruit & leaves of olive
 * [Page 25:  ](#id-section25).
 * [Page 26:  ](#id-section26).
 * [Page 27:  ](#id-section27).
@@ -634,28 +634,38 @@ Ruano F, Lozano C, Garcia P, Peña A, Tinaut A, Pascual F, Campos M. 2004. Use o
 Doganlar M, Sertkaya E, Skuhrava M. 2011. Pest status of olive leaf gall midge *Dasineura oleae* (Angelini, 1831), description of *Lasioptera oleicola* Skuhravá sp. new (Diptera: Cecidomyiidae) and effectiveness of parasitoids on their populations in Hatay Turkey. Turkish Journal of Entomology 35: 265-284. 
 
 -  study from 2007-2010
-- Hatay Province, Turkey. 
-- 2 spp of gall midges reared from galls on leaves and shoots of *Olea europaea* L. 
-- seriously injured leaves and defoliage led to loss in ability to produce buds next year 
-- one tree may produce 20-60 kg of olive fruit. Turkey = top 3 olive producers world wide 
-- 4 gall midges associated w/olive tree are 
+-  Hatay Province, Turkey. 
+-  2 spp of gall midges reared from galls on leaves and shoots of *Olea europaea* L. 
+-  seriously injured leaves and defoliage led to loss in ability to produce buds next year 
+-  one tree may produce 20-60 kg of olive fruit. Turkey = top 3 olive producers world wide 
+-  4 gall midges associated w/olive tree are 
   1. *Dasineura oleae* (Angelini, 1831) = galls on olive leaves s
   2. *Lasioptera berlesiana* Paoli, 1907 = larvae fungus feeder in olive fruits primarily attacked by OLF
   3. *Resseliella oleisuga*(Targioni-Tozzetti, 1886) = larvae develop under bark ,ay cause withering of twigs 
   4. *Asynapta furcifer* Barnes(1984) = saprophytic species, reared from slightly damaged olive fruits 
-- All midges occur in Mediterranean 
+-  All midges occur in Mediterranean 
   - *D. oleae* can be most economically damaging, gall midges considered "second-rate" pest of olive in Turkey
     - Larvae cause slight, indefinite, elongate swellings on olive leaves. 
-- Methods of rearing parasitoids from midges/galls
-- Morphological terminology and identification of midges = Skuhravá 1997 and Doganlar 2011, Doganlar et al. 2009 
-- Usually one *Lasioptera* spp is associated with one host plant spp
+-  Methods of rearing parasitoids from midges/galls
+-  Morphological terminology and identification of midges = Skuhravá 1997 and Doganlar 2011, Doganlar et al. 2009 
+-  Usually one *Lasioptera* spp is associated with one host plant spp
   - distinguished by number of antennal segments 
 
 ------
 
 <div id='id-section20'/>    
 ​    
-### Page 20:  
+### Page 20:2017.11.7 Chliyeh et al. 2014 pathogenicity 4 fungal spp on fruits & leaves of olive  
+
+*Citation information*
+
+Chliyeh M, Achbani EH, Rhimini Y, Selmaoui K, Touhami AO, Filali-Maltouf A, Modafar CE, Moukhli A, Oukabli A, Benkirane R, Douira A. 2014. Pathogenicity of four fungal species on fruits and leaves of the olive tree (*Olea europaea* L.). International Journal of Pure and Applied Bioscience 2: 1-9. 
+
+-  Inoculated olive fruits & leaves with *Aspergillus flavus*, *Cladosporium sp.* and *Celletotrichum* *gloeosporioid* 
+- Fruit susceptible during ripening period
+- injuries necessary for *A flavus* infection 
+- plant pathogenic fungi secrete many different extracellular enzymes that degrade cellular tissues and absorb nutrients
+- may result in loss of quality of extracted oil 
 
 ------
 
