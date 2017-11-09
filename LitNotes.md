@@ -664,7 +664,7 @@ Chliyeh M, Achbani EH, Rhimini Y, Selmaoui K, Touhami AO, Filali-Maltouf A, Moda
 -  Inoculated olive fruits & leaves with *Aspergillus flavus*, *Cladosporium sp.* and *Celletotrichum* *gloeosporioid* 
 - Fruit susceptible during ripening period
 - injuries necessary for *A flavus* infection 
-- plant pathogenic fungi secrete many different extracellular enzymes that degrade cellular tissues and absorb nutrients
+- plant pathogenic fungi secrete smany different extracellular enzymes that degrade cellular tissues and absorb nutrients
 - may result in loss of quality of extracted oil 
 
 ------
