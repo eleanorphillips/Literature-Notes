@@ -26,7 +26,7 @@
 * [Page 19:  ](#id-section19).2017.11.6 Doganlar et al. 2011 Pest status olive leaf gall midge, new midge, and parasitoid effectiveness in Hatay Turkey
 * [Page 20:  ](#id-section20).2017.11.7 Chliyeh et al. 2014 Pathogenicity 4 fungual spp in fruit & leaves of olive
 * [Page 21:  ](#id-section21).2017.11.8 Young 2004 Olive knot & its pathogens
-* [Page 26:  ](#id-section26).
+* [Page 22:  ](#id-section22).2017.11.9 Copeland et al. 2004 Insects assoc w.fruits of Oleaceae 
 * [Page 27:  ](#id-section27).
 * [Page 28:  ](#id-section28).
 * [Page 29:  ](#id-section29).
@@ -696,7 +696,29 @@ Young JM. 2004. Olive knot and its pathogens. Australian Plant Pathology 33: 33-
 
 <div id='id-section22'/>    
 ​    
-### Page 22:  
+### Page 22:2017.11.9 Copeland et al. 2004 insects & Oleaceae   
+
+*Citation information*
+
+Copeland RS, White IM, Okumu M, Machera P, Wharton RA. 2004. Insects associated with fruits of the Oleaceae (Asteridae, Lamiales) in Kenya, with special reference to the Tephritidae (Diptera). Bishop Museum Bulletin in Entomology 12: 135-164. 
+
+- 5 year study of fruits collected
+- olive fly reared from 90% of spp *Olea europaea* , found exclusively on this spp
+- family Oleaceae found primarily in SE Asia and Australia, found also in tropical and temperate areas of world
+- Kenya has 4 out of 25 recognized genera
+- only olive is economically important fruit producer
+- commercial olive derived from *Oleae europaea* L. spp. *cuspidata* 
+- climatic factor may be reason for *Psyttalia concolor* parasitoid biocontrol efforts in Europe
+  - (Raspi & Loni, 1994)
+- Copeland et al. 2002 = fruit sample handling
+- Collections of ripe & green fruits compared 
+- From fruits of *Chionanthus* *niloticus* 
+  - *M.  whartoni*
+-  From fruits of *Olea europaea* spp *cuspidata*
+  - *B. oleae*
+  - *B. munroi*
+    - Parasitoids = *Pysttalia sp*, *Utetes africanus*, Chalidoidea (mostly Eurytomidae_, also a Pteromalidae, Eulophidae, Torymidae, Eupelmidae)
+  - Torticidae, Microlepidoptera, Carponisidae
 
 ------
 
