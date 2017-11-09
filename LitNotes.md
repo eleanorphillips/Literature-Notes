@@ -25,7 +25,7 @@
 * [Page 18:  ](#id-section18).2017.11.5 Ruano et al. 2004 arthropods for eval of olive-orchard mgmt regimes
 * [Page 19:  ](#id-section19).2017.11.6 Doganlar et al. 2011 Pest status olive leaf gall midge, new midge, and parasitoid effectiveness in Hatay Turkey
 * [Page 20:  ](#id-section20).2017.11.7 Chliyeh et al. 2014 Pathogenicity 4 fungual spp in fruit & leaves of olive
-* [Page 25:  ](#id-section25).
+* [Page 21:  ](#id-section21).2017.11.8 Young 2004 Olive knot & its pathogens
 * [Page 26:  ](#id-section26).
 * [Page 27:  ](#id-section27).
 * [Page 28:  ](#id-section28).
@@ -662,16 +662,35 @@ Doganlar M, Sertkaya E, Skuhrava M. 2011. Pest status of olive leaf gall midge *
 Chliyeh M, Achbani EH, Rhimini Y, Selmaoui K, Touhami AO, Filali-Maltouf A, Modafar CE, Moukhli A, Oukabli A, Benkirane R, Douira A. 2014. Pathogenicity of four fungal species on fruits and leaves of the olive tree (*Olea europaea* L.). International Journal of Pure and Applied Bioscience 2: 1-9. 
 
 -  Inoculated olive fruits & leaves with *Aspergillus flavus*, *Cladosporium sp.* and *Celletotrichum* *gloeosporioid* 
-- Fruit susceptible during ripening period
-- injuries necessary for *A flavus* infection 
-- plant pathogenic fungi secrete smany different extracellular enzymes that degrade cellular tissues and absorb nutrients
-- may result in loss of quality of extracted oil 
+-  Fruit susceptible during ripening period
+-  injuries necessary for *A flavus* infection 
+-  plant pathogenic fungi secrete smany different extracellular enzymes that degrade cellular tissues and absorb nutrients
+-  may result in loss of quality of extracted oil 
 
 ------
 
 <div id='id-section21'/>    
 ​    
-### Page 21:  
+### Page 21:2017.11.8 Young 2004 Olive knot & its pathogens  
+
+*Citation information*
+
+Young JM. 2004. Olive knot and its pathogens. Australian Plant Pathology 33: 33-39. 
+
+- bacterial pathogen(s) known as *Pseudomonas savastanoi* 
+- No cost-effective wat ro control olive knot by using available bactericidal sprats
+- Disease-resistant cultivar breeding may improve resistance and effective control long term
+- in South Australia, *Pseudomonas syringae* has been recorded causing bacterial canker on olive
+  - Some susceptible olive varieties can be pathogenetic to oleander knot pathogen
+- in 2004, olive knot pathogen closest to FL in Arkansas
+- knots rought surfaced and more than 2.5 cm in diameter
+- may cause "off" taste in fruit
+- older knots can be invaded by secondary bacteria makes recognition of pathogen more difficult
+- pathogen does not survive outside of plants, rapidly declines in soil
+- rain followed by high humidity favors infection
+- one infected in a field, olive trees w/in range of 500m susceptible to aerosols generated during storms
+- annual pruning no later than august 
+- no documented proof for bio control of bacterial pathogens like olive knot that primarily affect the above ground structure of plants a
 
 ------
 
