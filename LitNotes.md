@@ -27,7 +27,7 @@
 * [Page 20:  ](#id-section20).2017.11.7 Chliyeh et al. 2014 Pathogenicity 4 fungual spp in fruit & leaves of olive
 * [Page 21:  ](#id-section21).2017.11.8 Young 2004 Olive knot & its pathogens
 * [Page 22:  ](#id-section22).2017.11.9 Copeland et al. 2004 Insects assoc w.fruits of Oleaceae 
-* [Page 27:  ](#id-section27).
+* [Page 23:  ](#id-section23).2017.11.11 Athar 2005 Infestation of OLF in CA & taxonomy of its host trees
 * [Page 28:  ](#id-section28).
 * [Page 29:  ](#id-section29).
 * [Page 30:  ](#id-section30).
@@ -714,7 +714,7 @@ Copeland RS, White IM, Okumu M, Machera P, Wharton RA. 2004. Insects associated 
 - Collections of ripe & green fruits compared 
 - From fruits of *Chionanthus* *niloticus* 
   - *M.  whartoni*
--  From fruits of *Olea europaea* spp *cuspidata*
+- From fruits of *Olea europaea* spp *cuspidata*
   - *B. oleae*
   - *B. munroi*
     - Parasitoids = *Pysttalia sp*, *Utetes africanus*, Chalidoidea (mostly Eurytomidae_, also a Pteromalidae, Eulophidae, Torymidae, Eupelmidae)
@@ -724,7 +724,33 @@ Copeland RS, White IM, Okumu M, Machera P, Wharton RA. 2004. Insects associated 
 
 <div id='id-section23'/>    
 ​    
-### Page 23:  
+### Page 23:2017.11.11 Athar 2005 OLF in CA & taxonomy of host trees  
+
+*Citation information*
+
+Athar M. 2005. Infestation of olive fruit fly, *Bactrocera oleae*, in California and taxonomy of its host trees. Agriculturae Conspectus Scientificus 70: 135-138. 
+
+- Larvae monophagous
+  - cause premature fruit frop and yield reduction
+- Adults feed on nectar, honeydew, other liquid and semi-liquid food sources
+- Infestation affects volume harvested, alters color of oil, increases acidity of oil
+- Trapping surveys
+- Bailey and Bailey 1976—other host trees of OLF
+- 19 tree spp observed infestsed in CA by OLF
+  - Oleaceae (olives) preferred
+  - Rosaceae = 9 tree spp 
+  - Rutaceae = 5 tree spp
+  - Anacardiaceae, Fabaceae (Leguminosae), Lythraceae, Malpigiaceae
+    - All fruit trees except Brazilian pepper tree, carob, crape myrtle and ornamental plum 
+- Olives on ly breeding host plant
+- adults search for food or refuge
+  - also attack wild olives 
+- bacterial causal agent of olive knot is a symbiont required in the gut of olive fruit fly larvae and adults (Rice 2000)
+  - Bacteria helps break down chemicals in olive fruit into essential amino acids for growth & reproduction
+- Adult hosts include orange, grapefruit, tangerine, calamondin, cherry, plum, lemon, avocado, loquat, nectarine, *Myoporum* and Surinam cherry.
+- trapping and migration studies from Crete list additional nonbreeding hosts walnut, apple, sycamore, chestnut, vine, fig, *Arbustus* and persimmon
+- Lab hosts have shown OLF larval development in Tomato (Rice 2000)
+- ​
 
 ------
 
