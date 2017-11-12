@@ -28,7 +28,7 @@
 * [Page 21:  ](#id-section21).2017.11.8 Young 2004 Olive knot & its pathogens
 * [Page 22:  ](#id-section22).2017.11.9 Copeland et al. 2004 Insects assoc w.fruits of Oleaceae 
 * [Page 23:  ](#id-section23).2017.11.11 Athar 2005 Infestation of OLF in CA & taxonomy of its host trees
-* [Page 28:  ](#id-section28).
+* [Page 24:  ](#id-section24).2017.11.12 Rodrigues et al. 2012 Fert recommendations for olive, pruning, crop takeup
 * [Page 29:  ](#id-section29).
 * [Page 30:  ](#id-section30).
 * [Page 31:  ](#id-section31).
@@ -756,7 +756,17 @@ Athar M. 2005. Infestation of olive fruit fly, *Bactrocera oleae*, in California
 
 <div id='id-section24'/>    
 ​    
-### Page 24:  
+### Page 24:2017.11.12 Rodrigues et al. 2012 Fertilizer recommendations  
+
+*Citation information*
+
+Rodrigues MA, Ferreira IQ, Claro AM, Arrobas M. 2012. Fertilizer recommendations for olive based upon nutrients removed in crop and pruning. Scientia Horticulturae 142: 205-211. 
+
+- Ten-year-old trees
+- Fertilizer should not exceed 20kg N/ha/yr 
+- Leaves = highest N concentration
+- Boron highest in fruit pulp lowest in woody parts
+- ​
 
 ------
 
