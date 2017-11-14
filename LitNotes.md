@@ -29,8 +29,8 @@
 * [Page 22:  ](#id-section22).2017.11.9 Copeland et al. 2004 Insects assoc w.fruits of Oleaceae 
 * [Page 23:  ](#id-section23).2017.11.11 Athar 2005 Infestation of OLF in CA & taxonomy of its host trees
 * [Page 24:  ](#id-section24).2017.11.12 Rodrigues et al. 2012 Fert recommendations for olive, pruning, crop takeup
-* [Page 29:  ](#id-section29).
-* [Page 30:  ](#id-section30).
+* [Page 25:  ](#id-section25). 2017.11.13 Rice 2000. Bionomics of the olive fruit fly 
+* [Page 26:  ](#id-section26).2017.11.14 Delrio et al. 1983 Food, sex and visual attractants for OLF
 * [Page 31:  ](#id-section31).
 * [Page 32:  ](#id-section32).
 * [Page 33:  ](#id-section33).
@@ -772,13 +772,25 @@ Rodrigues MA, Ferreira IQ, Claro AM, Arrobas M. 2012. Fertilizer recommendations
 
 <div id='id-section25'/>    
 ​    
-### Page 25:  
+### Page 25:2017.11.13 Rice 2000 Bionomics of the olive fruit fly   
+
+*Citation information*
+
+Rice RE. 2000. Bionomics of the olive fruit fly *Bactrocera (Dacus) oleae*. University of California Plant Protection Quarterly 10:1-5. 
+
+- Tomato & privet potential labratory hosts for OLF larvae wow
 
 ------
 
 <div id='id-section26'/>    
 ​    
-### Page 26:  
+### Page 26:2017.11.14 Delrio et al. 1983 Food, sex, visual attractants for OLF  
+
+*Citation information*
+
+Delrio G, Prota R, Economopoulos PV, Economopoulos AP. 1983. Comparative study on food, sex, and visual attractants for the olive fruit fly. Fruit Flies of Economic Importance [ed. R Cavalloro]. Proceedings of the CEC/IOBC International Symposium. A.A. Balkema, Rotterdam, Netherlands. pp 465-472. 
+
+-  Best times of OLF capture during growing season
 
 ------
 
