@@ -31,7 +31,7 @@
 * [Page 24:  ](#id-section24).2017.11.12 Rodrigues et al. 2012 Fert recommendations for olive, pruning, crop takeup
 * [Page 25:  ](#id-section25). 2017.11.13 Rice 2000. Bionomics of the olive fruit fly 
 * [Page 26:  ](#id-section26).2017.11.14 Delrio et al. 1983 Food, sex and visual attractants for OLF
-* [Page 31:  ](#id-section31).
+* [Page 27:  ](#id-section27).2017.11.15 Hrncic 2002. A survey of olive pests in Montenegro
 * [Page 32:  ](#id-section32).
 * [Page 33:  ](#id-section33).
 * [Page 34:  ](#id-section34).
@@ -796,7 +796,31 @@ Delrio G, Prota R, Economopoulos PV, Economopoulos AP. 1983. Comparative study o
 
 <div id='id-section27'/>    
 ​    
-### Page 27:  
+### Page 27:2017.11.15 Hrncic 2002 A survey of olive pests in Montenegro  
+
+*Citation information*
+
+Hrncic S. 2002. A survey of olive pests in Montenegro. Acta Horticulturae 586: 819-821. 
+
+- 1998-1999
+- McPhail traps used to monitor OLF
+- other pests of importance identified were*
+  - *Prays oleae* Bern - impacts on adult orchards
+    - olive moth
+  - *Saissetia oleae* Olivier - impacts on adult orchards
+    - black scale
+  - *Parlatoria oleae* Colvee
+    - olive scale
+  - *Philippia oleae* Targ.
+    - other scale insect?
+  - *Dasineura oleae* Loew
+    - olive leaf gall midge
+  - *Phloeotribus scarabaeoides* Bernard
+    - olive bark borer
+  - also attacks of *Palpita* (*Margaronia*) *unionalis* Hubern
+    - only relevant for newly established orchards
+- well organized control only for OLF
+- ​
 
 ------
 
