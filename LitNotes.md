@@ -32,7 +32,7 @@
 * [Page 25:  ](#id-section25). 2017.11.13 Rice 2000. Bionomics of the olive fruit fly 
 * [Page 26:  ](#id-section26).2017.11.14 Delrio et al. 1983 Food, sex and visual attractants for OLF
 * [Page 27:  ](#id-section27).2017.11.15 Hrncic 2002. A survey of olive pests in Montenegro
-* [Page 32:  ](#id-section32).
+* [Page 28:  ](#id-section28).2017.11.16 Wang et al. 2017 Olive industry in China evaluation
 * [Page 33:  ](#id-section33).
 * [Page 34:  ](#id-section34).
 * [Page 35:  ](#id-section35).
@@ -826,7 +826,27 @@ Hrncic S. 2002. A survey of olive pests in Montenegro. Acta Horticulturae 586: 8
 
 <div id='id-section28'/>    
 ​    
-### Page 28:  
+### Page 28:2017.11.16 Wang et al. 2017 Olive industry in China  
+
+*Citation information*
+
+Wang J, Zhang D, Farooqi TJA, Ma L, Deng Y, Jia Z. 2017. The olive (*Olea europaea* L.) industry in China: its status, opportunities and challenges. Agroforestry Systems < https://doi.org/10.1007/s10457-017-0129-y> (last accessed 16 November 2017). 
+
+- Ecological, social and economic benefits in China & Mediterranean
+- Lit review & field investigation 
+- Gansu, Sichuan, Tunnan after 2000 built up olive industry in Southern parts of country bc of high survival rate
+  - Expected planting projected to be 193,400 ha by 2030 (currently 66,400 ha)
+- out of 165 cultivars, 28 selected for suitability 
+- Lognan best region for olive industry development. 
+  - Initial stages of development like FL
+- Woody oil plant
+  - Only oil that can be directly eaten after cold-pressing of fresh olive fruits
+  - Variety of olive products increasing for commercial consumption
+  - Mediterranean diet = good health and longevity, beneficial effects on human health. (see cited papers for more details? pg 12)
+- Olives trees have been grown with cereals, legumes, forage & other veggies in Morocco (Daoui et al 2012, Daoui and Fatemi 2014), Tunisia Greece, Italy & China. 
+  - Free range poultry resulted in higher meat quality, more sustainable ag
+  - Research more on intercropping 
+    - Very new in Mediterranean, as well
 
 ------
 
