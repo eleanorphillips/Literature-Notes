@@ -33,8 +33,8 @@
 * [Page 26:  ](#id-section26).2017.11.14 Delrio et al. 1983 Food, sex and visual attractants for OLF
 * [Page 27:  ](#id-section27).2017.11.15 Hrncic 2002. A survey of olive pests in Montenegro
 * [Page 28:  ](#id-section28).2017.11.16 Wang et al. 2017 Olive industry in China evaluation
-* [Page 33:  ](#id-section33).
-* [Page 34:  ](#id-section34).
+* [Page 29:  ](#id-section29).2017.11.17 Daane et al. 2000. *Metaphycus anneckei* and *Metaphycus hageni* 2 parasitic spp on black scale *Saissetia oleae* 
+* [Page 30:  ](#id-section30).2017.11.17 Rochat et al. 2001 Weather-mediated regulation of olive scale by 2 parasitoids
 * [Page 35:  ](#id-section35).
 * [Page 36:  ](#id-section36).
 * [Page 37:  ](#id-section37).
@@ -852,13 +852,47 @@ Wang J, Zhang D, Farooqi TJA, Ma L, Deng Y, Jia Z. 2017. The olive (*Olea europa
 
 <div id='id-section29'/>    
 ​    
-### Page 29:  
+### Page 29:2017.11.17 Daane et al. parasitic spp on black scale  
+
+*Citation information*
+
+Daane KM, Barzman MS, Caltagirone LE, Hagen KS. 2000. *Metaphycus anneckei* and *Metaphycus hageni*: two discrete species parasitic on black scale, *Saissetia oleae*. BioControl 45: 269-284. 
+
+- Encyrtid parasitoid
+- parasitized black scale collected from olives in Spain
+- morphological differences examined
+- diagnostic keys by Annecke and Mynhardt (1971)
+- rearing and indentification methods
+  - honeydew as food for the parasitoid adults
+- specimens compared to other parasitoids from Australia, Greece, Israel, Italy, Mexico, South Africa, California, Hawaii, and Spain. 
+- Inter and intra specific mating 
+- behaviour studies of oviposition 
+- Different morphological characteristics of ovipositor length and gaster slant
 
 ------
 
 <div id='id-section30'/>    
 ​    
-### Page 30:  
+### Page 30:2017.11.17 Rochat and Guiterrez 2001  
+
+*Citation information*
+
+Rochat J, Guiterrez AP. 2001. Weather-mediated regulation of olive scale by two parasitoids. Journal of Animal Ecology 70: 476-490.
+
+- olive scale = *Parlatoria oleae* (Colvée) (Diaspididae)
+- two parasitoids = *Aphytis maculicornis* & *Coccophagoides utilis* 
+  - both introduced
+- physiological indices used to scale fecundity and survivorship rates 
+- *A maculicornis* most active in spring and fall, *C utilis* most active in hot summer
+- Fecundity of parasitoids influenced by searching success
+  - Fecundity (number of viable eggs produced, potential for reproduction) = sterility
+  - Fertility (natural capability to produce offspring)= infertility 
+- Mortality due to
+  - temperature-dependent
+  - resource shortfalls
+  - net mortality rate
+- Thermal limits of olive scale much wider than two parasitoids
+- ​
 
 ------
 
