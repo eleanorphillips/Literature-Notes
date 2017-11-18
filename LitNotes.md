@@ -35,7 +35,7 @@
 * [Page 28:  ](#id-section28).2017.11.16 Wang et al. 2017 Olive industry in China evaluation
 * [Page 29:  ](#id-section29).2017.11.17 Daane et al. 2000. *Metaphycus anneckei* and *Metaphycus hageni* 2 parasitic spp on black scale *Saissetia oleae* 
 * [Page 30:  ](#id-section30).2017.11.17 Rochat et al. 2001 Weather-mediated regulation of olive scale by 2 parasitoids
-* [Page 35:  ](#id-section35).
+* [Page 31:  ](#id-section31).2017.11.18 Bon et al. populations of OLF and its parasitoids in Himalayan Asia
 * [Page 36:  ](#id-section36).
 * [Page 37:  ](#id-section37).
 * [Page 38:  ](#id-section38).
@@ -898,7 +898,18 @@ Rochat J, Guiterrez AP. 2001. Weather-mediated regulation of olive scale by two 
 
 <div id='id-section31'/>    
 ​    
-### Page 31:  
+### Page 31:2017.11.18 Bon et al. 2016 OLF and its parasitoids in Himalayan Asia  
+
+*Citation information*
+
+Bon MC, Hoelmer KA, Pickett CH, He Y, Mahmood R, Daane KM. 2016. Populations of *Bactrocera oleae* (Diptera: Tephritidae) and its parasitoids in Himalayan Asia. Annals of the Entomological Society of America 109: 81-91. 
+
+- Pakistan
+  - Brachonids *Psyttalia ponerophaga* from flies on wild olive
+- China
+  - Brachonids *Diaschasmimorpha* spp of parasitoids from flies
+    - *D longicaudata* 
+  - No infestation on *Olea* spp of *yuennanensis, doicia, brachiata, tsoongi* 
 
 ------
 
