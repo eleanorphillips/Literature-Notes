@@ -36,7 +36,7 @@
 * [Page 29:  ](#id-section29).2017.11.17 Daane et al. 2000. *Metaphycus anneckei* and *Metaphycus hageni* 2 parasitic spp on black scale *Saissetia oleae* 
 * [Page 30:  ](#id-section30).2017.11.17 Rochat et al. 2001 Weather-mediated regulation of olive scale by 2 parasitoids
 * [Page 31:  ](#id-section31).2017.11.18 Bon et al. populations of OLF and its parasitoids in Himalayan Asia
-* [Page 36:  ](#id-section36).
+* [Page 32:  ](#id-section32). D'Onghia et al. 2017 *Xylella fastidiosa* & olive quick decline syndrome (OQDS) - compilation
 * [Page 37:  ](#id-section37).
 * [Page 38:  ](#id-section38).
 * [Page 39:  ](#id-section39).
@@ -915,7 +915,26 @@ Bon MC, Hoelmer KA, Pickett CH, He Y, Mahmood R, Daane KM. 2016. Populations of 
 
 <div id='id-section32'/>    
 ​    
-### Page 32:  
+### Page 32: D'Onghia et al. 2017 *X. fastidiosa* olive quick decline syndrome compilation document/seminar  
+
+*Citation information*
+
+D'Onghia AM, Brunel S, Valentini F. 2017. *Xylella fastidiosa* & the olive quick decline syndrome (OQDS) A serious worldwide challenge for the safeguard of olive trees. IAM Bari: CIHEAM (Centre International de Hautes Etudes Agronomiques Méditerranéennes) Options Méditerranéennes. Série A Mediterranean Seminars 121 pp1-172. 
+
+- Compilation of information on OQDS and impacts of *X fastidiosa*
+- Strain in Italy vectored by spittlebug *Philaenus spumarius*, strain is (CoDiRO) infects at least 28 host plants 
+  - has been intercepted in coffee plant from Costa Rica and Honduras
+  - no recorded successful eradication bc of large host plant range and vectors
+  - preventing pathogen introduction and mgmt of infected areas reduce spread
+- limited to xylem, fastidious bacterium 
+- can adapt to different climatic temps
+- characterized in OQDS as scattered dessication of twigs and small branches
+  - scorching starts at tip and progresses towards petiole, extending to whole blade
+  - starts at crown of tree, then goes to rest of canopy 
+  - Cicadellidae spreads them
+    - *P. spumarius* and *Cicadella viridis* 
+    - others recorded in Italy 
+  - ​
 
 ------
 
