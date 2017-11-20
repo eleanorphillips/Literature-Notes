@@ -37,7 +37,7 @@
 * [Page 30:  ](#id-section30).2017.11.17 Rochat et al. 2001 Weather-mediated regulation of olive scale by 2 parasitoids
 * [Page 31:  ](#id-section31).2017.11.18 Bon et al. populations of OLF and its parasitoids in Himalayan Asia
 * [Page 32:  ](#id-section32). D'Onghia et al. 2017 *Xylella fastidiosa* & olive quick decline syndrome (OQDS) - compilation
-* [Page 37:  ](#id-section37).
+* [Page 33:  ](#id-section33).Dagatti et al. 2009 Population fluctuations of 2 eriophyoid mites (Acari: Eriophyidae) on olea europea in Coquimbito Argentina
 * [Page 38:  ](#id-section38).
 * [Page 39:  ](#id-section39).
 * [Page 40:  ](#id-section40).
@@ -940,7 +940,18 @@ D'Onghia AM, Brunel S, Valentini F. 2017. *Xylella fastidiosa* & the olive quick
 
 <div id='id-section33'/>    
 ​    
-### Page 33:  
+### Page 33:2017.11.20 Dagatti et al. 2009 Eriophyoid mites pop fluctuations  
+
+*Citation information*
+
+Dagatti CV, Herrera ME, Becerra VC, Mazzanti MA, Miano JL. 2010 Population fluctuations of two eriophyoid mites (Acari: Eriophyidae) on *Olea europea* in Coquimbito (Maipú, Mendoza, Argentina). FCA UNCuyo 42: 201-206. 
+
+- spp include *Aceria oleae* (Nalepa) and *Oxycenus maxwelli* (Keifer)
+- Acari overwinter in the leaves and leaf/vegetative buds (the underside)
+- At the end of september, largest proportion of individuals in flower buds, flowers 
+- later, larger proportion in set fruit, populations augmented until the highest density in December. 
+- Able to transmit viruses, malformations in flowers, vegetation, fruit, young leaves, galls in leaves, defoliation, chlorosis 
+- selected olive trees with symptoms characteristic of mite infestation a
 
 ------
 
