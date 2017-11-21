@@ -38,7 +38,7 @@
 * [Page 31:  ](#id-section31).2017.11.18 Bon et al. populations of OLF and its parasitoids in Himalayan Asia
 * [Page 32:  ](#id-section32). D'Onghia et al. 2017 *Xylella fastidiosa* & olive quick decline syndrome (OQDS) - compilation
 * [Page 33:  ](#id-section33).Dagatti et al. 2009 Population fluctuations of 2 eriophyoid mites (Acari: Eriophyidae) on olea europea in Coquimbito Argentina
-* [Page 38:  ](#id-section38).
+* [Page 34:  ](#id-section34).Tzanakakis 2003 seasonal development and dormancy of insects & mites feeding on olive: a review
 * [Page 39:  ](#id-section39).
 * [Page 40:  ](#id-section40).
 * [Page 41:  ](#id-section41).
@@ -957,7 +957,31 @@ Dagatti CV, Herrera ME, Becerra VC, Mazzanti MA, Miano JL. 2010 Population fluct
 
 <div id='id-section34'/>    
 ​    
-### Page 34:  
+### Page 34:2017.11.21 Tzanakakis 2003 review of insects and mites seasonal dev and dormancy that feed on olive  
+
+*Citation information*
+
+Tzanakakis ME. Seasonal development and dormancy of insects and mites feeding on olive: A review. Netherlands Journal of Zoology 52: 87-224. 
+
+- 116 spp insects, 30 mites known to infest
+- *Saissetia oleae* (Olivier) (Coccidae) 
+  - wide distribution, native to Eritrea? Flanders 1970
+  - Polyphagous, lives on over 150 spp
+  - IMportant olive pest in past 40 years - infests leaves, shoots, twigs and small branches
+  - Seasonal development 
+    - usually parthenogenetic
+    - De Lotto 1976 suggested 3 spp of *Saissetia* Deplanche structurally similar to *S. oleae* and complex of closely related spp probably exists
+    - Univoltine under dry conditions, bivoltine under humid ones
+      - Orphanides 1990 
+    - Second generation only involves part of population
+    - Rate of development of insect affected by conditions of the tree
+    - Depends on stage of females when they overwinter
+      - Slow continuous change throughout winter
+      - most overwintering stages L1 & L3
+    - Adults appear mostly in April-May in southern Italy, oviposit largely May-July, peak oviposition in June 
+    - Dormancy in crawler phase during the summer "torpor" phase = 30-60 days of neoneate larvae under maternal body 
+    - If areas are hot and dry, fewer females reach adult stage before winter, so overwintering occurs during L2 and L3 installs. Only one generation is recorded constantly
+- See if other information needed for other spp life histories/symptoms/distributions
 
 ------
 
