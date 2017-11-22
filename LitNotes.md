@@ -39,7 +39,7 @@
 * [Page 32:  ](#id-section32). D'Onghia et al. 2017 *Xylella fastidiosa* & olive quick decline syndrome (OQDS) - compilation
 * [Page 33:  ](#id-section33).Dagatti et al. 2009 Population fluctuations of 2 eriophyoid mites (Acari: Eriophyidae) on olea europea in Coquimbito Argentina
 * [Page 34:  ](#id-section34).Tzanakakis 2003 seasonal development and dormancy of insects & mites feeding on olive: a review
-* [Page 39:  ](#id-section39).
+* [Page 35:  ](#id-section35).Sergeeva 2011 Anthracnose in olives
 * [Page 40:  ](#id-section40).
 * [Page 41:  ](#id-section41).
 * [Page 42:  ](#id-section42).
@@ -987,7 +987,27 @@ Tzanakakis ME. Seasonal development and dormancy of insects and mites feeding on
 
 <div id='id-section35'/>    
 ​    
-### Page 35:  
+### Page 35:2017.11.22 Sergeeva 2011 Anthracnose in olives  
+
+*Citation information*
+
+Sergeeva V. 2011. Anthracnose in olives: Symptoms, disease cycle and management. Proceedings of the 4th International Conference on Olive Bioteq 1: 269-274. 
+
+- Anthracnose is caused by fungi *Colletotrichum acutatum* and *C. gloeosporiodes* 
+- Widespread sides. Depends on variety, environment and virulence Warm, rainy, misty, humid conditions associated with severe anthracnose epidemics. 
+  - Can affect up to 80% of susceptible cultivars 
+- Copper-based fungicides failed to control anthracnose 
+- Fully open flowers and ripening fruit susceptible to infection
+  - can cause premature fruit drop, brown lesions, rapid rotting of fruits
+  - Epidemiology and disease cycles not fully understood in olive anthracnose sys?
+  - Anthracnose fungi overwinter in mummified fruits on trees and in infected woody tissue, peduncles and leaves infected from previous year and still attached to tree
+- Difficult to control after symptoms appear
+- Excess nitrogen can accumulate in fruit, negatively affects fruit quality more susceptible to pests and diseases, can promote anthracnose 
+- Apply antifungal compound after pruning 
+- Flowering stage critical for infection, can also occur during fruit set 
+- Entry points from damage by bugs (hemiptera) and Queensland fruit fly —what is this?!
+  - Sergeeva and Spooner-Hart 2010******
+  - ​
 
 ------
 
