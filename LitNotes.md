@@ -40,9 +40,9 @@
 * [Page 33:  ](#id-section33).Dagatti et al. 2009 Population fluctuations of 2 eriophyoid mites (Acari: Eriophyidae) on olea europea in Coquimbito Argentina
 * [Page 34:  ](#id-section34).Tzanakakis 2003 seasonal development and dormancy of insects & mites feeding on olive: a review
 * [Page 35:  ](#id-section35).Sergeeva 2011 Anthracnose in olives
-* [Page 40:  ](#id-section40).
-* [Page 41:  ](#id-section41).
-* [Page 42:  ](#id-section42).
+* [Page 36:  ](#id-section36).2017.11.25 Santos et al. 2010
+* [Page 37:  ](#id-section37).2017.11.25 Santos 2007 action of predagtors against black scale in Trás -os-Montes olive groves
+* [Page 38:  ](#id-section38).2017.11.26 Ouguas and Chemesddine 2010 Effet of pruning and chemical control on *Saissetia oleae* in olives 
 * [Page 43:  ](#id-section43).
 * [Page 44:  ](#id-section44).
 * [Page 45:  ](#id-section45).
@@ -1013,19 +1013,70 @@ Sergeeva V. 2011. Anthracnose in olives: Symptoms, disease cycle and management.
 
 <div id='id-section36'/>    
 ​    
-### Page 36:  
+### Page 36:2017.11.25 Santos et al. 2010  
+
+*Citation information*
+
+Santos SAP, Pereira JA, Raimundo A, Torres LM, Nogueira AJA. 2010 Response of coccinellid community to the dimethoate application in olive groves in northeasten Portugal. Spanish Journal of Agricultural Research 8: 126-134. 
+
+- Species level ID
+- 23 spp of coccinellids
+- reduction of abundance of most common coccinellid spp due to application of dimethoate. 
+- some spp more sensitive to insecticide than others. 
+- schedule insecticidal applications with life history of beneficial insects 
 
 ------
 
 <div id='id-section37'/>    
 ​    
-### Page 37:  
+### Page 37:2017.11.25 Santos 2007 Predators and black scale in olive groves   
+
+*Citation information*
+
+dos Santos SAP. Action of predators against the black-scale Saissettia oleae (Olive.) in Trás-os-Montes olive groves. P.h.D. Dissertation: 1-156. 
+
+- EU promotes enhancing boipdiversity and protection of agro-ecosystems since 1992 (cool why dont we do this in the U.S.)
+  - consumer concerns about sustainable farming
+  - reduction or eradication of synthetic pesticide use
+  - chemicals can be toxic to a broad range of insects
+- Black scale is oviparous, parthenogenetic, males rarae or absent 
+- Females have 3 nymphal stages
+  - Adult is 2 phases: immature fourth install female and mature ovipositing females
+  - univoltine in Trás-os-Montes, overwinters as immature 2nd or 3rd instars
+  - 3rd instars migrate from leaves to younger sprouts in spring
+- damage
+  - sucking plant sap, sooty mold
+- Field surveys, gut content analysis, and lab experiments can be ued to obtain data on predator-prey relationships 
+  - observations can be difficult (time spent in vicinity)
+  - gut analysis helpful
+- different management regimes on olive tree canopy arthropod community
+  - Biodiversity, coccinellid community focus, temporal synchrony between black scale and coccinellid spp
+  - voracity of selected coccinellid spp and different phenological stages of black scale
+  - trophic relationships using ELISA
+  - identificaiton of indirect effects of sooty mold on olive tree by analysis of histological.biochemical qualities in leaves covered in sooty mold
+  - ​
+
+
 
 ------
 
 <div id='id-section38'/>    
 ​    
-### Page 38:  
+### Page 38: 2017.11.26 Ouguas and Chemesddine pruning & chemical control on black scale   
+
+*Citation information*
+
+Ouguas Y, Chemseddine M. 2010. Effect of pruning and chemical control on *Saissetia oleae* (Olivier) (Hemiptera, Coccidae) in olives. Fruits 66: 225-234. 
+
+- Morocco 
+- tendency to colonize younger parts of tree 
+- mobile instars were present at beginning and end of July
+- Chemically-treated samples had significantly fewer crawlers and nymphs
+- pruned trees had a smaller scale infestation 
+- old vs new leaves 
+- eggs from May-July, also April - June 1400 eggs/linear meter
+- pruning reduced 1.6-2.3 times 
+- Fenthion = chemical used , live mature scale may need insecticide such as Supracide or Lebaycid 
 
 ------
 
