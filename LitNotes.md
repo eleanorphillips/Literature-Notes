@@ -1057,7 +1057,6 @@ dos Santos SAP. Action of predators against the black-scale Saissettia oleae (Ol
   - ​
 
 
-
 ------
 
 <div id='id-section38'/>    
@@ -1069,14 +1068,31 @@ dos Santos SAP. Action of predators against the black-scale Saissettia oleae (Ol
 Ouguas Y, Chemseddine M. 2010. Effect of pruning and chemical control on *Saissetia oleae* (Olivier) (Hemiptera, Coccidae) in olives. Fruits 66: 225-234. 
 
 - Morocco 
+
 - tendency to colonize younger parts of tree 
+
 - mobile instars were present at beginning and end of July
+
 - Chemically-treated samples had significantly fewer crawlers and nymphs
+
 - pruned trees had a smaller scale infestation 
+
 - old vs new leaves 
+
 - eggs from May-July, also April - June 1400 eggs/linear meter
+
 - pruning reduced 1.6-2.3 times 
+
 - Fenthion = chemical used , live mature scale may need insecticide such as Supracide or Lebaycid 
+
+- *Pullus mediterraneus* = parasitoid of black scale eggs, many insecticides lethal to this beneficial bug 
+
+  - spp of Coccinellid 
+
+
+  ​			
+  ​		
+  ​	
 
 ------
 
