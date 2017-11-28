@@ -42,8 +42,8 @@
 * [Page 35:  ](#id-section35).Sergeeva 2011 Anthracnose in olives
 * [Page 36:  ](#id-section36).2017.11.25 Santos et al. 2010
 * [Page 37:  ](#id-section37).2017.11.25 Santos 2007 action of predagtors against black scale in Trás -os-Montes olive groves
-* [Page 38:  ](#id-section38).2017.11.26 Ouguas and Chemesddine 2010 Effet of pruning and chemical control on *Saissetia oleae* in olives 
-* [Page 43:  ](#id-section43).
+* [Page 38:  ](#id-section38).2017.11.27 Ouguas and Chemesddine 2010 Effet of pruning and chemical control on *Saissetia oleae* in olives 
+* [Page 39:  ](#id-section39).2017.11.28 Prado et al. 2015 black scale parasitoids in Brazil
 * [Page 44:  ](#id-section44).
 * [Page 45:  ](#id-section45).
 * [Page 46:  ](#id-section46).
@@ -1098,7 +1098,21 @@ Ouguas Y, Chemseddine M. 2010. Effect of pruning and chemical control on *Saisse
 
 <div id='id-section39'/>    
 ​    
-### Page 39:  
+### Page 39:2017.11.28 Prado et al. 2015 Parasitoids associated w/*Saissetia oleae*  
+
+*Citation information*
+
+Prado E, Alvarenga TM, Santa-Cecília LVC. 2015. Prasitoids associated with the black scale *Saissetia oleae* (Olivier) (Hemiptera: Coccidae) in olive trees in Minas Gerais State, Brazil. Acta Scientiarum. 
+
+- no information on natural enemies exists in Brazil
+- Study in central/coastal state of Brazil 
+- 16 parasitoid spp collected
+  - most common *Coccophagus caridei* (Bethes)(Hymenoptera: Aphelinidae)
+  - *Diversinervus elegans* Silvestri (Hymenoptera: Encyrtidae) 
+- percent parasitism ranged from 3-31% 
+- Recovery containers
+- some spp may have been hyperparasitoids
+- ​
 
 ------
 
