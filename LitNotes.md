@@ -1085,6 +1085,11 @@ Ouguas Y, Chemseddine M. 2010. Effect of pruning and chemical control on *Saisse
 
 - Fenthion = chemical used , live mature scale may need insecticide such as Supracide or Lebaycid 
 
+- Fenthion has been used by Ouguas and Chemseddine 2010 on nymphs and crawlers, and they suggest live mature scale may need Supracide or Lebaycid
+
+- - Other insecticides used to control *S. oleae* include methyl, lamda cyalothrine, dimethoate, parathion, malathion and cypermethrine, methadixide 40, Ultracide 40 EC (methidathion), Promazit blanche (mineral oil) and Sevin 85 WP (carbaryl) used in Morocco 
+    - these are lethal to adult *Pullus mediterraneus* parasitoids 
+
 - *Pullus mediterraneus* = parasitoid of black scale eggs, many insecticides lethal to this beneficial bug 
 
   - spp of Coccinellid 
