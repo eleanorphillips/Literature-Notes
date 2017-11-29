@@ -44,7 +44,7 @@
 * [Page 37:  ](#id-section37).2017.11.25 Santos 2007 action of predagtors against black scale in Trás -os-Montes olive groves
 * [Page 38:  ](#id-section38).2017.11.27 Ouguas and Chemesddine 2010 Effet of pruning and chemical control on *Saissetia oleae* in olives 
 * [Page 39:  ](#id-section39).2017.11.28 Prado et al. 2015 black scale parasitoids in Brazil
-* [Page 44:  ](#id-section44).
+* [Page 40:  ](#id-section40).2017.11.29 Miyasaka et al. 2017 Guide to olive cultivation in Hawai'i
 * [Page 45:  ](#id-section45).
 * [Page 46:  ](#id-section46).
 * [Page 47:  ](#id-section47).
@@ -1123,7 +1123,21 @@ Prado E, Alvarenga TM, Santa-Cecília LVC. 2015. Prasitoids associated with the 
 
 <div id='id-section40'/>    
 ​    
-### Page 40:  
+### Page 40:2017.11.29 Miyasaka et al. 2017 guide to olive in Hawai'i   
+
+*Citation information*
+
+Miyasaka SC, Hamasaki RT, Nagata RT. 2017. Reflective guide to growing olives for oil production in Hawai'i. NPH-16, University of Hawai'i at Manoa, 1-9. 
+
+- Desirable planting conditions often in upper elevations on major mountains of Hawai'i. 
+- All economically important crop plants are not native to Hawai'i and have been adapted to its climate. 
+- Arbequina & Arbosana varieties originate from Spain, and Koroneiki variety originates from Greece
+  - All three most suitable and produced both flowers and fruits
+- Volcanic ash soil is light and well drained - needs shorter duration and  more frequent irrigations than heavy soils
+- Fuller rose beetles *Naupactus cervinus* observed damaging young olive leaves
+  - flightless, nocturnal beetles, notched leaf ends
+- Ash whitefly *Siphoninus phillyreae* observed infesting olive trees underside of leaf foliage 
+- Fruit maturity between 2.5 - 4.5 is ideal (really great photo of maturity index ranging from 0-7 here!)
 
 ------
 
