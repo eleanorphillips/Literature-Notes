@@ -45,7 +45,7 @@
 * [Page 38:  ](#id-section38).2017.11.27 Ouguas and Chemesddine 2010 Effet of pruning and chemical control on *Saissetia oleae* in olives 
 * [Page 39:  ](#id-section39).2017.11.28 Prado et al. 2015 black scale parasitoids in Brazil
 * [Page 40:  ](#id-section40).2017.11.29 Miyasaka et al. 2017 Guide to olive cultivation in Hawai'i
-* [Page 45:  ](#id-section45).
+* [Page 41:  ](#id-section41).2017.11.30 González and Campos 1990. Natural enemies of the bark beetles in Granada olive groves 
 * [Page 46:  ](#id-section46).
 * [Page 47:  ](#id-section47).
 * [Page 48:  ](#id-section48).
@@ -1143,7 +1143,29 @@ Miyasaka SC, Hamasaki RT, Nagata RT. 2017. Reflective guide to growing olives fo
 
 <div id='id-section41'/>    
 ​    
-### Page 41:  
+### Page 41:2017.11.30 González and Campos natural enemies of *Phloeotribus scarabaeoides* in Granada olive groves  
+
+*Citation information*
+
+González R, Campos M. 1990. Evaluation of natural enemies of the *Phloeotribus scarabaeoides* (Bern.) (Col: Scolytidae) in Granada olvie groves. Acta Horticulturae 286: 355-358. 
+
+- study for four years 1986-1989
+- hymenopterous ectoparasitoids spp found —most representative below, first two account for 93% parasitism 
+  - *Cheiropachus quadrum*
+  - *Raphitelus maculatus*
+  - *Eurytoma morio*
+- predator *Laemophloeus juniperi* is most important 
+  - Cucujidae beetle - on larval and pre-pupal stages
+- sometimes pseudoscorpions found feeding on beetle eggs 
+- sometimes ant spp predation important, mainly by spp *Crematogaster scutellaris* 
+- bark beetles (Scolytidae) some most destructive insect pests in coniferous forests, also fruit trees
+  - olive bark beetle can cause up to 60% loss in crop
+- beetle infestation period = early March-June 
+- noted number of cuttings 
+  - when first parasitoid emergences observed, infested cuttings moved to lab
+- Ectoparasite families (w/exception of endoparasite Encyrtidae) 
+  - Pteromalidae, Eurytomidae, Brachonidae, Bethylidae, Eupelmidae 
+- ​
 
 ------
 
