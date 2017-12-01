@@ -46,7 +46,7 @@
 * [Page 39:  ](#id-section39).2017.11.28 Prado et al. 2015 black scale parasitoids in Brazil
 * [Page 40:  ](#id-section40).2017.11.29 Miyasaka et al. 2017 Guide to olive cultivation in Hawai'i
 * [Page 41:  ](#id-section41).2017.11.30 González and Campos 1990. Natural enemies of the bark beetles in Granada olive groves 
-* [Page 46:  ](#id-section46).
+* [Page 42:  ](#id-section42).2017.12.1 Kalaitzaki et al. 2012 seasonal phenology and preference of Mirid on olive, citrus and other host plants in the field 
 * [Page 47:  ](#id-section47).
 * [Page 48:  ](#id-section48).
 * [Page 49:  ](#id-section49).
@@ -1171,7 +1171,25 @@ González R, Campos M. 1990. Evaluation of natural enemies of the *Phloeotribus 
 
 <div id='id-section42'/>    
 ​    
-### Page 42:  
+### Page 42: 2017.12.1 Kalaitzaki et al. 2012 phenology, preference of a Mirid on olive   
+
+*Citation information*
+
+Kalaitzaki A, Amara A, Tsagkarakis A. 2012. Seasonal phenology and relative preference of *Closterotomus* (*Calocoris*) *trivialis* (Hemiptera: Miridae) on olive, citrus and associated host plants in the field. 
+
+- Seasonal appearance, population abundance of nymphs and adults of *Closterotomus trivialis* (Costa) 
+  - shaking samplings 
+  - Olive &&&& Citrus groves
+  - samples also from weeds
+- populations v low in general 
+- phytophagous plant bug, polyphagous
+- feeds on young shoots, flowers and buds of host plant
+- prefer inflorescence buds —most susceptible during emergence of flower buds to bloom period
+- capable of inducing damage on fruit setting of olive, but not significant
+  - need at least 12 for bud drop, 8 for damage to fruit setting  
+- early and mid-spring
+  - prefer weeds over olives and citrus
+    - *M. annua, Urtica* spp., *O. officinalis, S. alba*
 
 ------
 
