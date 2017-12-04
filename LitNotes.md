@@ -47,8 +47,8 @@
 * [Page 40:  ](#id-section40).2017.11.29 Miyasaka et al. 2017 Guide to olive cultivation in Hawai'i
 * [Page 41:  ](#id-section41).2017.11.30 González and Campos 1990. Natural enemies of the bark beetles in Granada olive groves 
 * [Page 42:  ](#id-section42).2017.12.1 Kalaitzaki et al. 2012 seasonal phenology and preference of Mirid on olive, citrus and other host plants in the field 
-* [Page 47:  ](#id-section47).
-* [Page 48:  ](#id-section48).
+* [Page 43:  ](#id-section43).2017.12.2 Milonas et al. 2009 trichogramma attraction to *Prays oleae* sex pheromone 
+* [Page 44:  ](#id-section44).2017.12.3 Barzman and Daane 2001 Host-handling behaviours in parasitoids of the black scale: a case for ant-mediated evolution
 * [Page 49:  ](#id-section49).
 * [Page 50:  ](#id-section50).
 * [Page 51:  ](#id-section51).
@@ -1195,13 +1195,30 @@ Kalaitzaki A, Amara A, Tsagkarakis A. 2012. Seasonal phenology and relative pref
 
 <div id='id-section43'/>    
 ​    
-### Page 43:  
+### Page 43:2017.12.2 Milonas et al. 2009 Attraction of *Trichogramma* spp to *Prays oleae* sex pheromone  
+
+*Citation information*
+Milonas PG, Martinou AF, Kontodimas DCH, Karamaouna F, Konstantopoulou MA. 2009. Attraction of different *Trichogramma* species to *Prays oleae* sex pheromone. Annals of the Entomological Society of America 102: 1145-1150. 
+
+- 3 diff *Trichogramma* spp attracted to sex pheromone of olive moth 
 
 ------
 
 <div id='id-section44'/>    
 ​    
-### Page 44:  
+### Page 44: 2017.12.3 Barzman and Daane 2017  
+
+*Citation information*
+
+Barzman MS, Daane KM. 2001. Host-handling behaviours in parasitoids of the black scale: A case for ant-mediated evolution. Journal of Animal Ecology 70: 237-247. 
+
+- scale defenses = hard integument and effect of ant's tending *S oleae*
+- Encyrtids *Metaphycus* *anneckei, M. hageni, and M lounsburyi* all evaluated for host rejection, drilling/oviposition, presence or absence of host feeding
+  - difference in where parasitoid oviposits
+  - *M annecki* oviposits thru soft ventral integument, other 2 thru hard dorsal integument
+  - *M annecki* only oviposited, other 2 also fed on scale
+- field tests used potted oleander plants 
+- see this article for ant associations with black scale  & parasitoid behavior 
 
 ------
 
