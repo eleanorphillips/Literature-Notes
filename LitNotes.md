@@ -49,7 +49,7 @@
 * [Page 42:  ](#id-section42).2017.12.1 Kalaitzaki et al. 2012 seasonal phenology and preference of Mirid on olive, citrus and other host plants in the field 
 * [Page 43:  ](#id-section43).2017.12.2 Milonas et al. 2009 trichogramma attraction to *Prays oleae* sex pheromone 
 * [Page 44:  ](#id-section44).2017.12.3 Barzman and Daane 2001 Host-handling behaviours in parasitoids of the black scale: a case for ant-mediated evolution
-* [Page 49:  ](#id-section49).
+* [Page 45:  ](#id-section45).2017.12.4 Scalercio et al. 2009 Impacts of compounds allowed in organic farming on above-ground arthropods of the olive ecosystem
 * [Page 50:  ](#id-section50).
 * [Page 51:  ](#id-section51).
 * [Page 52:  ](#id-section52).
@@ -1224,7 +1224,15 @@ Barzman MS, Daane KM. 2001. Host-handling behaviours in parasitoids of the black
 
 <div id='id-section45'/>    
 ​    
-### Page 45:  
+### Page 45:2017.12.4 Scalercio et al. 2009 impact of organic farming compounds in olive  
+
+*Citation information*
+
+Scalercio S, Belfiore T, Noce ME, Vixxarri V, Iannotta N. 2009. The impact of compounds allowed in organic farming on the above-ground arthropods of the olive ecosystem. Bulletin of Insectology 62: 137-141. 
+
+- Rotenone caused largest reduction of arthropod abunace compared to azadirachtin and copper oxychloride 
+- Non-target arthropods most affected by rotenone, low for copper oxychloride
+- Abbot's formula to evaluate impact of active ingredients on selected arthropods  
 
 ------
 
