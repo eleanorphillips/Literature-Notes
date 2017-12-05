@@ -50,7 +50,7 @@
 * [Page 43:  ](#id-section43).2017.12.2 Milonas et al. 2009 trichogramma attraction to *Prays oleae* sex pheromone 
 * [Page 44:  ](#id-section44).2017.12.3 Barzman and Daane 2001 Host-handling behaviours in parasitoids of the black scale: a case for ant-mediated evolution
 * [Page 45:  ](#id-section45).2017.12.4 Scalercio et al. 2009 Impacts of compounds allowed in organic farming on above-ground arthropods of the olive ecosystem
-* [Page 50:  ](#id-section50).
+* [Page 46:  ](#id-section46).2017.12.5 Gkisakis et al. 2015 soil arthropod diversity in organic, integrated and conventional olive orchards & diff agroecological zones in Crete, Greece
 * [Page 51:  ](#id-section51).
 * [Page 52:  ](#id-section52).
 * [Page 53:  ](#id-section53).
@@ -1238,7 +1238,34 @@ Scalercio S, Belfiore T, Noce ME, Vixxarri V, Iannotta N. 2009. The impact of co
 
 <div id='id-section46'/>    
 ​    
-### Page 46:  
+### Page 46: 2017. 12.5 Gkisakis et al. 2015 soil arthropod diversity in Crete, Greece  
+
+*Citation information*
+
+Gkisakis VD, Kollaros D, BÀrberi P, Livieratos IC, Kabourakis EM. 2015. Soil arthropod diversity in organic, integrated, and conventional olive orchards and different agroecological zones in Crete, Greece. Agroecology and Sustainable Food Systems 39:276-294. 
+
+- one year study 
+- grouped by biological pest control, nutrient cycling services, 
+- defined by total abundance, diversity and functional subgroup
+- not statistically significant, but higher #total catches higher in organic management
+- hilly orchards had higher arthropod diversity and evenness
+- agroecological zones and organic mgmt explained biggest fraction of arthropod viability
+  - total explained rather low
+- elevation, landscape structure, pedoclimatic conditions, biotic factors
+- multivariate analyses 
+- rank and abundance curves (Whittaker plots) 
+  - visually represent species abundance distribution (SAD) 
+  - simpson's index
+  - Pielou's evenness index
+- ​
+- ![![Gkisakisetal2015Abundance_Curve](/Users/eleanorphillips/Documents/Olives!/Articles/Gkisakisetal2015Abundance_Curve.png)]![Gkisakisetal2015Abundance_Curve](/Users/eleanorphillips/Documents/Olives!/Articles/Gkisakisetal2015Abundance_Curve.png)]
+- ​
+
+
+​				
+​			
+​		
+​	
 
 ------
 
