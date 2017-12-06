@@ -51,7 +51,7 @@
 * [Page 44:  ](#id-section44).2017.12.3 Barzman and Daane 2001 Host-handling behaviours in parasitoids of the black scale: a case for ant-mediated evolution
 * [Page 45:  ](#id-section45).2017.12.4 Scalercio et al. 2009 Impacts of compounds allowed in organic farming on above-ground arthropods of the olive ecosystem
 * [Page 46:  ](#id-section46).2017.12.5 Gkisakis et al. 2015 soil arthropod diversity in organic, integrated and conventional olive orchards & diff agroecological zones in Crete, Greece
-* [Page 51:  ](#id-section51).
+* [Page 47:  ](#id-section47).2017.12.6 Luvisi et al. 2017 sustainable management of Plant quarantine pests: OQDS olive quick decline syndrome
 * [Page 52:  ](#id-section52).
 * [Page 53:  ](#id-section53).
 * [Page 54:  ](#id-section54).
@@ -1259,19 +1259,23 @@ Gkisakis VD, Kollaros D, BÀrberi P, Livieratos IC, Kabourakis EM. 2015. Soil a
   - Pielou's evenness index
 - ​
 - ![![Gkisakisetal2015Abundance_Curve](/Users/eleanorphillips/Documents/Olives!/Articles/Gkisakisetal2015Abundance_Curve.png)]![Gkisakisetal2015Abundance_Curve](/Users/eleanorphillips/Documents/Olives!/Articles/Gkisakisetal2015Abundance_Curve.png)]
-- ​
 
-
-​				
-​			
-​		
-​	
 
 ------
 
 <div id='id-section47'/>    
 ​    
-### Page 47:  
+### Page 47:2017.12.6 Luvisi et al. 2017 Sustainable management of plant quarantine pests olive quick decline syndrome  
+
+*Citation information*
+
+Luvisi A, Nicolì F, De Bellis L. Sustainable management of plant quarantine pests: The case of olive quick decline syndrome. Sustainability 9: 1-19. 
+
+- can cause Pierce's disease of grapevine, citrus variegated chlorosis (also known as citrus X disease), phony peach disease, and lots of leaf scorch diseases in *Prunus* spp. 
+- established and emerging strains - very well studied
+- can infect more than 350 plant species
+  - 22 found to be infected with CoDiRO strain
+- *Philaenus* *spumarius* aka meadow spittlebug in Europe rapidly identified as most important vector of OQDS			
 
 ------
 
