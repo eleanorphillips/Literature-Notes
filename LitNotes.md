@@ -52,7 +52,7 @@
 * [Page 45:  ](#id-section45).2017.12.4 Scalercio et al. 2009 Impacts of compounds allowed in organic farming on above-ground arthropods of the olive ecosystem
 * [Page 46:  ](#id-section46).2017.12.5 Gkisakis et al. 2015 soil arthropod diversity in organic, integrated and conventional olive orchards & diff agroecological zones in Crete, Greece
 * [Page 47:  ](#id-section47).2017.12.6 Luvisi et al. 2017 sustainable management of Plant quarantine pests: OQDS olive quick decline syndrome
-* [Page 52:  ](#id-section52).
+* [Page 48:  ](#id-section48).2017.12.7 Preto et al. 2017 Fungal community in olive fruits of cultivars w/different susceptibilities to anthracnose and selection of isolates to be used as biocontrol agents
 * [Page 53:  ](#id-section53).
 * [Page 54:  ](#id-section54).
 * [Page 55:  ](#id-section55).
@@ -1275,13 +1275,26 @@ Luvisi A, Nicolì F, De Bellis L. Sustainable management of plant quarantine pe
 - established and emerging strains - very well studied
 - can infect more than 350 plant species
   - 22 found to be infected with CoDiRO strain
-- *Philaenus* *spumarius* aka meadow spittlebug in Europe rapidly identified as most important vector of OQDS			
+    - *Philaenus* *spumarius* aka meadow spittlebug in Europe rapidly identified as most important vector of OQDS	
 
 ------
 
 <div id='id-section48'/>    
 ​    
-### Page 48:  
+### Page 48:2017.12.7 Preto et al. 2017 anthracnose, fungal communities, biocontrol agents, susceptibility   
+
+*Citation information*
+
+Preto G, Martins F, Alberto JA, Baptista P. 2017. Fungal community in olive fruits of cultivars with different susceptibilities to anthracnose and selection of isolates to be used as biocontrol agents. Biological Control. 110: 1-9. 
+
+- phyllosphere = above-ground part of plants
+- Use of bray-cutis (raw abundance data) and jaccard's (binary data) to compare two groups
+- Interesting graphic output—don't know if i'd use it tho
+
+
+​			
+​		
+​	
 
 ------
 
