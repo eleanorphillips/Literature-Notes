@@ -53,7 +53,7 @@
 * [Page 46:  ](#id-section46).2017.12.5 Gkisakis et al. 2015 soil arthropod diversity in organic, integrated and conventional olive orchards & diff agroecological zones in Crete, Greece
 * [Page 47:  ](#id-section47).2017.12.6 Luvisi et al. 2017 sustainable management of Plant quarantine pests: OQDS olive quick decline syndrome
 * [Page 48:  ](#id-section48).2017.12.7 Preto et al. 2017 Fungal community in olive fruits of cultivars w/different susceptibilities to anthracnose and selection of isolates to be used as biocontrol agents
-* [Page 53:  ](#id-section53).
+* [Page 49:  ](#id-section49).2017.12.8 Simoes et al. Natural vegetation mgmt to conserve biodiversity and soil water in olive orchards
 * [Page 54:  ](#id-section54).
 * [Page 55:  ](#id-section55).
 * [Page 56:  ](#id-section56).
@@ -1300,7 +1300,15 @@ Preto G, Martins F, Alberto JA, Baptista P. 2017. Fungal community in olive frui
 
 <div id='id-section49'/>    
 ​    
-### Page 49:  
+### Page 49:2017.12.8 Simoes et al. 2014 Nat veg mgmt to conserve biodiversity and soil wate rin olive orchards  
+
+*Citation information*
+
+Simoes MP, Belo AF, Pinto-Cruz C, Pinheiro AC. 2014. Natural vegetation management to conserve biodiversity and soil water in olive orchards. Spanish Journal of Agricultural Research 12: 633-643. 
+
+- olive production did not differ between tilled and mowed land
+- Soil water betwe in mowed, as well as positive correlation with spp richness & diversity 
+- bray curtis similarities is a headache in terms of graphic output 
 
 ------
 
