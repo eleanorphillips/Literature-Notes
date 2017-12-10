@@ -54,7 +54,7 @@
 * [Page 47:  ](#id-section47).2017.12.6 Luvisi et al. 2017 sustainable management of Plant quarantine pests: OQDS olive quick decline syndrome
 * [Page 48:  ](#id-section48).2017.12.7 Preto et al. 2017 Fungal community in olive fruits of cultivars w/different susceptibilities to anthracnose and selection of isolates to be used as biocontrol agents
 * [Page 49:  ](#id-section49).2017.12.8 Simoes et al. Natural vegetation mgmt to conserve biodiversity and soil water in olive orchards
-* [Page 54:  ](#id-section54).
+* [Page 50:  ](#id-section50).2017.12.9 Salman et al. 2011 Incidence and severity of olive leaf spot Palestine
 * [Page 55:  ](#id-section55).
 * [Page 56:  ](#id-section56).
 * [Page 57:  ](#id-section57).
@@ -1314,7 +1314,20 @@ Simoes MP, Belo AF, Pinto-Cruz C, Pinheiro AC. 2014. Natural vegetation manageme
 
 <div id='id-section50'/>    
 ​    
-### Page 50:  
+### Page 50:2017.12.9 Salman et al. 2011 Olive leaf spot Palesting  
+
+*Citation information*
+
+Salma M, Hawamda A-A, Amarni A A-A, Rahil M, Hajjeh H, Natsheh B, Abuamsha R. 2011. Evaluation of the incidence and severity of olive leaf spot caused by *Spilocaea oleagina* on olive trees in Palestine. American Journal of Plant Sciences 2: 457-460. 
+
+- OLS causes reduced growth and yield in olive trees
+- incidence = % infected 
+- severity = #lesions/leaf 
+- severe premature defoliation in olive 
+- symptoms = dark green to black spots surrounded by yellow halo on leaves
+  - blemishes on table olives
+- chemical fungicides most common control
+  - copper-containing prior to winter rains
 
 ------
 
