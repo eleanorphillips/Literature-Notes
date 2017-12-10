@@ -55,7 +55,7 @@
 * [Page 48:  ](#id-section48).2017.12.7 Preto et al. 2017 Fungal community in olive fruits of cultivars w/different susceptibilities to anthracnose and selection of isolates to be used as biocontrol agents
 * [Page 49:  ](#id-section49).2017.12.8 Simoes et al. Natural vegetation mgmt to conserve biodiversity and soil water in olive orchards
 * [Page 50:  ](#id-section50).2017.12.9 Salman et al. 2011 Incidence and severity of olive leaf spot Palestine
-* [Page 55:  ](#id-section55).
+* [Page 51:  ](#id-section51).2017.12.10 Stratopoulou and Kapatos 1998 Key factors population reg of black scale on olives in Greece
 * [Page 56:  ](#id-section56).
 * [Page 57:  ](#id-section57).
 * [Page 58:  ](#id-section58).
@@ -1333,7 +1333,19 @@ Salma M, Hawamda A-A, Amarni A A-A, Rahil M, Hajjeh H, Natsheh B, Abuamsha R. 20
 
 <div id='id-section51'/>    
 ​    
-### Page 51:  
+### Page 51:2017.12.10 Stratopoulou and Kapatos 1998 Kay factors and regulation of population of *Saissetia oleae* on olive in Greece  
+
+*Citation information*
+
+Stratopoulou ET, Kapatos ET. Key factors and regulation of population of *Saissetia oleae* (Hom., Coccidae) on olive trees in the region of Magnesia, Greece. Journal of Applied Entomology 122: 501-507. 
+
+- population studies, causes of outbreak
+- evaluate role of natural enemies
+- mortality of crawlers, constructed life tables 
+- key factors in population changes
+  - internal parasitoids mainly *Metaphycus helvolus*
+  - predators mainly coccinelids 
+- mortality of young larvae during high temperatures highly correlated 
 
 ------
 
