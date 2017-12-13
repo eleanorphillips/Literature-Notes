@@ -56,7 +56,7 @@
 * [Page 49:  ](#id-section49).2017.12.8 Simoes et al. Natural vegetation mgmt to conserve biodiversity and soil water in olive orchards
 * [Page 50:  ](#id-section50).2017.12.9 Salman et al. 2011 Incidence and severity of olive leaf spot Palestine
 * [Page 51:  ](#id-section51).2017.12.10 Stratopoulou and Kapatos 1998 Key factors population reg of black scale on olives in Greece
-* [Page 56:  ](#id-section56).
+* [Page 52:  ](#id-section52).2017.12.13. Tena et al. 2008 parasitoid complex of black scale on citrus and olives : spp composition and seasonal trend
 * [Page 57:  ](#id-section57).
 * [Page 58:  ](#id-section58).
 * [Page 59:  ](#id-section59).
@@ -1351,7 +1351,23 @@ Stratopoulou ET, Kapatos ET. Key factors and regulation of population of *Saisse
 
 <div id='id-section52'/>    
 ​    
-### Page 52:  
+### Page 52:2017.12.13 Tena et al. 2008 parasitoid complex of black scale *Saissetia oleae* on citrus and olive: parasitoid spp comp and seasonal trend  
+
+*Citation information*
+
+Tena A, Soto A, Garcia-Marí F. Parasitoid complex of black scale *Saissetia oleae* on citrus and olives: parasitoid species composition and seasonal trend. BioControl 53:473-487. 
+
+- Parasitoid's Relative abundance, seasonal trend, geographic distribution, incidence on black scale populations
+- E Spain 2003-2005
+- Adult parasitoids sampled with portable engine-powered suction device
+- BS females attacked by *Scutellista caerulea* (Hymenoptera: Pteromalidae) found beneath female, however when most eggs had already hatched
+  - parasitic mite *Pyemotes herfsi* fed on all stages of parasitoid *S. caerulea*
+- *Metaphycus lounsburyi* (Hymenoptera: Encyrtidae) common in citrus and olives, parasitism rates were low. endoparasitoid
+- 2nd and 3rd instars of black scale were mainly parasitized by solitary endoparasitoid *Metaphycus flavus*, secondarily by *M. hevolus* —less abundant and limited in distribution 
+- other areas of world growing citrus and olive report *M. helvolus and M. lounsburyi* as main parasitoids of black scale, but not case in E Spain
+- consider parasitoids when using chemical control
+- need more studies on augmentative release of 
+- *Coccophagus lycimnia* 
 
 ------
 
