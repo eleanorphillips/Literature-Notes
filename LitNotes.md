@@ -1355,7 +1355,7 @@ Stratopoulou ET, Kapatos ET. Key factors and regulation of population of *Saisse
 
 *Citation information*
 
-Tena A, Soto A, Garcia-Marí F. Parasitoid complex of black scale *Saissetia oleae* on citrus and olives: parasitoid species composition and seasonal trend. BioControl 53:473-487. 
+Tena A, Soto A, Garcia-Marí F. 2008. Parasitoid complex of black scale *Saissetia oleae* on citrus and olives: parasitoid species composition and seasonal trend. BioControl 53:473-487. 
 
 - Parasitoid's Relative abundance, seasonal trend, geographic distribution, incidence on black scale populations
 - E Spain 2003-2005
@@ -1368,6 +1368,7 @@ Tena A, Soto A, Garcia-Marí F. Parasitoid complex of black scale *Saissetia ole
 - consider parasitoids when using chemical control
 - need more studies on augmentative release of 
 - *Coccophagus lycimnia* 
+- Scale abundance quantification L,M, H
 
 ------
 
