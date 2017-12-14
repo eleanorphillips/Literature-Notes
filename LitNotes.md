@@ -57,7 +57,7 @@
 * [Page 50:  ](#id-section50).2017.12.9 Salman et al. 2011 Incidence and severity of olive leaf spot Palestine
 * [Page 51:  ](#id-section51).2017.12.10 Stratopoulou and Kapatos 1998 Key factors population reg of black scale on olives in Greece
 * [Page 52:  ](#id-section52).2017.12.13. Tena et al. 2008 parasitoid complex of black scale on citrus and olives : spp composition and seasonal trend
-* [Page 57:  ](#id-section57).
+* [Page 53:  ](#id-section53).2017.12.14 Salomone and Ioppolo 2012. Environmental impacts of olive oil production : LCA case study in Sicily
 * [Page 58:  ](#id-section58).
 * [Page 59:  ](#id-section59).
 * [Page 60:  ](#id-section60).
@@ -1374,7 +1374,16 @@ Tena A, Soto A, Garcia-Marí F. 2008. Parasitoid complex of black scale *Saisset
 
 <div id='id-section53'/>    
 ​    
-### Page 53:  
+### Page 53:2017.12.14 Salomone and Ioppolo 2012. Envrionmental impacts of olive oil production: a LCA case study in the province of Messina (Sicily)  
+
+*Citation information*
+
+Salomone R, Ioppolo G. 2012. Environmental impacts of olive oil production: a Life Cycle Assessment case study in the province of Messina (Sicily). Journal of Cleaner Production 28: 88-100. 
+
+- 3/4 olive oil in EU. Italy 2nd largest plive oil producing, Sicily 3rd most important producing region of Italy (8% Italian production)
+- 3 phases: Agricultural phase, oil production, olive mill waste treatment
+- conventional higher environmental load, except land use categories
+- co-composting OMW and OWP 
 
 ------
 
