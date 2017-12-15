@@ -58,7 +58,7 @@
 * [Page 51:  ](#id-section51).2017.12.10 Stratopoulou and Kapatos 1998 Key factors population reg of black scale on olives in Greece
 * [Page 52:  ](#id-section52).2017.12.13. Tena et al. 2008 parasitoid complex of black scale on citrus and olives : spp composition and seasonal trend
 * [Page 53:  ](#id-section53).2017.12.14 Salomone and Ioppolo 2012. Environmental impacts of olive oil production : LCA case study in Sicily
-* [Page 58:  ](#id-section58).
+* [Page 54:  ](#id-section54).2017.12.15 Yilmaz and Genç 2012 Determination of life cycle of olive fruit leaf moth in lab
 * [Page 59:  ](#id-section59).
 * [Page 60:  ](#id-section60).
 * [Page 61:  ](#id-section61).
@@ -1389,7 +1389,34 @@ Salomone R, Ioppolo G. 2012. Environmental impacts of olive oil production: a Li
 
 <div id='id-section54'/>    
 ​    
-### Page 54:  
+### Page 54:2017.12.15 Yilmaz and Genç 2012. Determination of life cycle of olive fruit leaf moth *Palpita unionalis* in lab  
+
+*Citation information*
+
+Yilmaz Ç, Genç H. Determination of the life cycle of the olive fruit leaf moth, *Palpita unionalis* (Lepidoptera: Pyralidae) in the laboratory. Florida Entomologist 95: 162-170. 
+
+-  important pest in nurseries and orchards in Turkey & Mediterranean Basin
+
+- reared at 24+/- 1˚C, 65% RH, and 16:8 h L:D in lab on leaves of olive plant cv 'Ayvalik'
+
+- collected in field in tupperware w/shoots and moist cotton
+
+- eggs laid indivually or in clusters on undersie of leaves
+
+  - laid randomly in adult cages
+
+- 6 instars based on molts and head capsule measurements
+
+- larval development completed in av 23.35+/- 2.13 d survival rate 60%
+
+- adult longevity 16.0 +/- 1.57 d female, 16.3 +/- 1.21 d males
+
+  - after mating, adult mortality and # of eggs laid recorded daily
+  - sex ratio of adults determined
+
+- Mean fecundity 352 +/- 42.9
+
+  ​
 
 ------
 
