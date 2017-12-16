@@ -59,7 +59,7 @@
 * [Page 52:  ](#id-section52).2017.12.13. Tena et al. 2008 parasitoid complex of black scale on citrus and olives : spp composition and seasonal trend
 * [Page 53:  ](#id-section53).2017.12.14 Salomone and Ioppolo 2012. Environmental impacts of olive oil production : LCA case study in Sicily
 * [Page 54:  ](#id-section54).2017.12.15 Yilmaz and Genç 2012 Determination of life cycle of olive fruit leaf moth in lab
-* [Page 59:  ](#id-section59).
+* [Page 55:  ](#id-section55).2017.12.16 Ishaaya and Swirski trehalase, invertase and amylase activities in BS and relaiton to host adaptability
 * [Page 60:  ](#id-section60).
 * [Page 61:  ](#id-section61).
 * [Page 62:  ](#id-section62).
@@ -1422,7 +1422,18 @@ Yilmaz Ç, Genç H. Determination of the life cycle of the olive fruit leaf moth
 
 <div id='id-section55'/>    
 ​    
-### Page 55:  
+### Page 55:2017.12.16 Ishaaya and Swirski 1976 Trehalase, invertase and amylase activities in BD and host adaptability  
+
+*Citation information*
+
+Ishaaya I, Swirski E. 1976. Trehalase, invertase, and amylase activities in the black scale, *Saissetia oleae*, and their relation to host adaptability. Journal of Insect Physiology 22: 1025-1029. 
+
+- Optimum conditions for young females of BS are reaction mixture of pH 5.5 and 2% sucrose at 37˚C for 60 minutes, for amylase pH 6.0 and 0.5% sartch at 37˚C for 45 minutes, and for trehalase pH 5.5 and 1.5% trehalose at 37˚C for 60 minutes. 
+- enzyme activity strongly affected by host plants
+- potato sprouts created increase in invertase and amylase activity compared to oleander or citrus
+  - potato development ~2.5-3 months on potato sprouts
+
+
 
 ------
 
