@@ -60,7 +60,7 @@
 * [Page 53:  ](#id-section53).2017.12.14 Salomone and Ioppolo 2012. Environmental impacts of olive oil production : LCA case study in Sicily
 * [Page 54:  ](#id-section54).2017.12.15 Yilmaz and Genç 2012 Determination of life cycle of olive fruit leaf moth in lab
 * [Page 55:  ](#id-section55).2017.12.16 Ishaaya and Swirski trehalase, invertase and amylase activities in BS and relaiton to host adaptability
-* [Page 60:  ](#id-section60).
+* [Page 56:  ](#id-section56).2017.12.17 Pereira et al. 2004 ants as predators of egg parasitoid Trichogramma cacoeciae for biocontrol of olive moth, Prays oleae 
 * [Page 61:  ](#id-section61).
 * [Page 62:  ](#id-section62).
 * [Page 63:  ](#id-section63).
@@ -1434,12 +1434,18 @@ Ishaaya I, Swirski E. 1976. Trehalase, invertase, and amylase activities in the 
   - potato development ~2.5-3 months on potato sprouts
 
 
-
 ------
 
 <div id='id-section56'/>    
 ​    
-### Page 56:  
+### Page 56:2017.12.17 Pereira et al. 2004 ants as predators of egg parasitoid Trichogramma cacoeciae for biocontrol of olive moth, Prays oleae  
+
+*Citation information*
+
+Pereira JA, Bento A, Cabanas JE, Torres LM, Herz A, Hassan SA. 2004. Ants as predators of the egg parasitoid *Trichogramma cacoeciae* (Hymenoptera: Trichogrammatidae) applied for biological control of the olive moth, *Prays oleae* (Lepidoptera: Plutellidae) in Portugal. Biocontrol Science and Technology 14: 653-664.
+
+- ants over 90% predators of trichogramma
+- where biocontrol use of parasitoids is implemented, ant reduction is important. 
 
 ------
 
