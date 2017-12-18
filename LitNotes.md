@@ -61,6 +61,10 @@
 * [Page 54:  ](#id-section54).2017.12.15 Yilmaz and Genç 2012 Determination of life cycle of olive fruit leaf moth in lab
 * [Page 55:  ](#id-section55).2017.12.16 Ishaaya and Swirski trehalase, invertase and amylase activities in BS and relaiton to host adaptability
 * [Page 56:  ](#id-section56).2017.12.17 Pereira et al. 2004 ants as predators of egg parasitoid Trichogramma cacoeciae for biocontrol of olive moth, Prays oleae 
+* [Page 57:  ](#id-section57).2017.12.18 Herrera et al. 2015 insectivorous bats in mediterranean olive
+* [Page 58:  ](#id-section58).
+* [Page 59:  ](#id-section59).
+* [Page 60:  ](#id-section60).
 * [Page 61:  ](#id-section61).
 * [Page 62:  ](#id-section62).
 * [Page 63:  ](#id-section63).
@@ -1451,7 +1455,18 @@ Pereira JA, Bento A, Cabanas JE, Torres LM, Herz A, Hassan SA. 2004. Ants as pre
 
 <div id='id-section57'/>    
 ​    
-### Page 57:  
+### Page 57:2017.12.18 Herrera et al. 2015 Community composition and activity of insectivorous bats in Mediteranean olive farms  
+
+*Citation information*
+
+Herrera JM, Costa P, Medinas D, Marques JT, Mira A. 2015. Community composition and activity of insectivorous bats in Mediterranean olive farms. Animal Conservation 18: 557-566. 
+
+- Number of bat spp and foraging activity declined with increasing management intensity. 
+- first study 
+- increasing habitat heterogeneity may contribute to preserve the community composition and ecological functionality of insectivorous bats in extensive olive monocultures. 
+- species accumulation and rarefaction
+- I really like the table characterizing cultuvation practices
+  - ![Screen Shot 2017-12-18 at 12.29.07 PM](/Users/eleanorphillips/Desktop/Screen Shot 2017-12-18 at 12.29.07 PM.png)
 
 ------
 
