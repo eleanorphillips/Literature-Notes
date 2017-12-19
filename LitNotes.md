@@ -62,7 +62,7 @@
 * [Page 55:  ](#id-section55).2017.12.16 Ishaaya and Swirski trehalase, invertase and amylase activities in BS and relaiton to host adaptability
 * [Page 56:  ](#id-section56).2017.12.17 Pereira et al. 2004 ants as predators of egg parasitoid Trichogramma cacoeciae for biocontrol of olive moth, Prays oleae 
 * [Page 57:  ](#id-section57).2017.12.18 Herrera et al. 2015 insectivorous bats in mediterranean olive
-* [Page 58:  ](#id-section58).
+* [Page 58:  ](#id-section58).2017.12.19 Breton et al. 2016 model to explain pseudo self-fertility in olive varieties 
 * [Page 59:  ](#id-section59).
 * [Page 60:  ](#id-section60).
 * [Page 61:  ](#id-section61).
@@ -1472,7 +1472,17 @@ Herrera JM, Costa P, Medinas D, Marques JT, Mira A. 2015. Community composition 
 
 <div id='id-section58'/>    
 ​    
-### Page 58:  
+### Page 58:2017.12.19 Breton et al. 2016 model based on S-allele dominance relationships to explain pseudo self-fertility of varieties in the olive tree  
+
+*Citation information*
+
+Breton CM, Farinelli D, Koubouris G, Bervillé A. 2016. A model based on S-allele dominance relationships to explain pseudo self-fertility of varieties in the olive tree. Euphytica 210: 105-117. 
+
+- self fertility decreased and prevented bc it causes inbreeding depression,
+- Olive tree w/sporophytic mechanism, 3 co0dominant *S*-alleles, *R1, R3, R5* do not lead to same level of self-fertility. 
+- each allele decreases, maintains, and enhances self-fertility rate, respectively 
+- Arbequina = R1, R3
+- Koroneiki = R4, R6 
 
 ------
 
