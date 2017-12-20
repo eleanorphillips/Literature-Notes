@@ -63,7 +63,7 @@
 * [Page 56:  ](#id-section56).2017.12.17 Pereira et al. 2004 ants as predators of egg parasitoid Trichogramma cacoeciae for biocontrol of olive moth, Prays oleae 
 * [Page 57:  ](#id-section57).2017.12.18 Herrera et al. 2015 insectivorous bats in mediterranean olive
 * [Page 58:  ](#id-section58).2017.12.19 Breton et al. 2016 model to explain pseudo self-fertility in olive varieties 
-* [Page 59:  ](#id-section59).
+* [Page 59:  ](#id-section59).2017.12.20 Landolt 1995 Attraction if *Mocis latipes* (Lepidoptera: Noctuidae) to sweet baits in traps
 * [Page 60:  ](#id-section60).
 * [Page 61:  ](#id-section61).
 * [Page 62:  ](#id-section62).
@@ -1488,7 +1488,26 @@ Breton CM, Farinelli D, Koubouris G, Bervillé A. 2016. A model based on S-allel
 
 <div id='id-section59'/>    
 ​    
-### Page 59:  
+### Page 59:2017.12.20 Landolt 1995 Attraction of *Mocis latipes* (Lepidoptera: Noctuidae) to sweet baits in traps  
+
+*Citation information*
+
+Landolt PJ. 1995. Attraction of *Mocis latipes* (Lepidoptera: Noctuidae) to sweet baits in traps. Florida Entomologist 78: 523-530. 
+
+- traps baited w/solutions of molasses or jaggery (unrefined palm sugar) captured significant numbers of moth *Mocis latipes* Guenee 
+- numbers captured affected by bait concentration and age
+  - greatest captures = 20% molasses in water , or 5, 10 or 20% jaggery in water
+- baits aged in laboratory for up to 3 days more attractive than freshly-made baits to *M. latipes*
+- nearly all temperate Noctuidae are attracted to sugar baits
+- *M latipes* is a known pest of pasture grasses, sugar cane and sorghum in SE US, and most of neotropics
+- Sex pheromone known to attract males, no known methods for females
+- first observed in traps used in tests for catching tephritid fruit flies
+- invaginated glass traps, McPhail traps used for all tests
+  - hold 0,5 L of fluid 6.5-cm diampeter opening at trap bottom for insects to enter 
+  - trap opened above tallest vegetation (about 50 cm above ground)
+    - height from *M. latipes* observed morning flight 
+    - traps placed in grassy areas along roads bordering crops 
+- Sex ratio in traps nearly 1:1 
 
 ------
 
