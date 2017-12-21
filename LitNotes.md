@@ -64,7 +64,7 @@
 * [Page 57:  ](#id-section57).2017.12.18 Herrera et al. 2015 insectivorous bats in mediterranean olive
 * [Page 58:  ](#id-section58).2017.12.19 Breton et al. 2016 model to explain pseudo self-fertility in olive varieties 
 * [Page 59:  ](#id-section59).2017.12.20 Landolt 1995 Attraction if *Mocis latipes* (Lepidoptera: Noctuidae) to sweet baits in traps
-* [Page 60:  ](#id-section60).
+* [Page 60:  ](#id-section60).2017.12.21 Acka et al. 2014 Anti-feedant neem and Hyphantria cunea (Lepidoptera: Arctiidae)
 * [Page 61:  ](#id-section61).
 * [Page 62:  ](#id-section62).
 * [Page 63:  ](#id-section63).
@@ -1513,7 +1513,14 @@ Landolt PJ. 1995. Attraction of *Mocis latipes* (Lepidoptera: Noctuidae) to swee
 
 <div id='id-section60'/>    
 ​    
-### Page 60:  
+### Page 60:2017.12.21 Acka et al. 2014 Anti-feedant and repellent effects of neem azal T/S against the fall webworm *Hyphantria cunea* (Drury) (Lepidoptera: Arctiidae)  
+
+*Citation information*
+
+Acka I, Yazici E, Ayvaz T. 2014. Anti-feedant and repellent effects of neem azal T/S against the fall webworm *Hyphantria cunea* (Drury) (Lepidoptera: Arctiidae). Egyptian Journal of Biological Pest Control 24: 369-372. 
+
+- concentration dependent antifeedant effect
+- has a large number of parasitoids, predators, including bird predators
 
 ------
 
