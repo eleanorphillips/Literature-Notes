@@ -65,7 +65,7 @@
 * [Page 58:  ](#id-section58).2017.12.19 Breton et al. 2016 model to explain pseudo self-fertility in olive varieties 
 * [Page 59:  ](#id-section59).2017.12.20 Landolt 1995 Attraction if *Mocis latipes* (Lepidoptera: Noctuidae) to sweet baits in traps
 * [Page 60:  ](#id-section60).2017.12.21 Acka et al. 2014 Anti-feedant neem and Hyphantria cunea (Lepidoptera: Arctiidae)
-* [Page 61:  ](#id-section61).
+* [Page 61:  ](#id-section61).2017.12.22 Furtado et al. 2016 Evaluating potential olive orchard sugar food sources for the olive fly parasitoid *Psyttalia concolor* 
 * [Page 62:  ](#id-section62).
 * [Page 63:  ](#id-section63).
 * [Page 64:  ](#id-section64).
@@ -1526,7 +1526,21 @@ Acka I, Yazici E, Ayvaz T. 2014. Anti-feedant and repellent effects of neem azal
 
 <div id='id-section61'/>    
 ​    
-### Page 61:  
+### Page 61:2017.12.22 Furtado et al. 2016 Evaluating potential olive orchard sugar food sources for the olive fly parasitoid *Psyttalia concolor*  
+
+*Citation information*
+
+Furtado C, Belo AF, Nunes FM, Ganhão E, Müller CT, Torres L, Rei FT. 2016. Evaluating potential olive orchard sugar food sources for the olive fly parasitoid *Psyttalia concolor*. BioControl 61: 473-483. 
+
+- Brachonid parasitoid
+- six plant nectars, two honeydews tested
+  - Positive survival = *Anchusa azurea, Rosmarinus officinalis, Lavatera cretica, and Calamintha nepta* 
+    - honeydew valuable alternative food source
+- *P concolor* found to feed predominantly on shallow corollas 
+- interesting to think about how the adult parasitoids will best survive in a monoculture olive setting — what kinds of flowers and sugar resources are available to them if they feed in adult stage 
+- honeydew from olive psyllid *Euphyllura olivina* collected , as well as *Aphis gossypii* aphid 
+- food provided in laste spring and late summer autumn 
+- look at methods for feeding experiments
 
 ------
 
