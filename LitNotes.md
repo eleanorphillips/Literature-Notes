@@ -66,7 +66,7 @@
 * [Page 59:  ](#id-section59).2017.12.20 Landolt 1995 Attraction if *Mocis latipes* (Lepidoptera: Noctuidae) to sweet baits in traps
 * [Page 60:  ](#id-section60).2017.12.21 Acka et al. 2014 Anti-feedant neem and Hyphantria cunea (Lepidoptera: Arctiidae)
 * [Page 61:  ](#id-section61).2017.12.22 Furtado et al. 2016 Evaluating potential olive orchard sugar food sources for the olive fly parasitoid *Psyttalia concolor* 
-* [Page 62:  ](#id-section62).
+* [Page 62:  ](#id-section62).2017.12.23 Benavente-García et al. 1999 Antioxidant phenolics olive leaves
 * [Page 63:  ](#id-section63).
 * [Page 64:  ](#id-section64).
 * [Page 65:  ](#id-section65).
@@ -1546,7 +1546,16 @@ Furtado C, Belo AF, Nunes FM, Ganhão E, Müller CT, Torres L, Rei FT. 2016. Eva
 
 <div id='id-section62'/>    
 ​    
-### Page 62:  
+### Page 62:2017.12.23 Benavente-García et al. 1999 Antioxidant phenolics olive leaves   
+
+*Citation information*
+
+Benavente-García O, Castillo J, Lorente J, Ortuño A, Del Rio JA. 1999. Antioxidant activity of phenolics extracted from *Olea europaea* L. leaves. Food Chemistry 68: 457-462. 
+
+- Abilities of identified phenolic compounds to scavenge ABTS+ radical cation and clarify structural elements conferring antioxidant capacity in aqueous systems. 
+- Olive leaf has been used as folk remedy for combating fevers, malaria. Also lowers blood pressure in animals, increases blood flwo in coronary arteries, relieves arrhythmia, prevented intestinal muscle spasms. 
+- Maybe antiflammatoy properties in bitter compound oleuripein(major constituent in secoiridoid family in olive trees. 
+  - antimicrobial activity against viruses, retroviruses, bacteria, yeasts, fungi, molds, parasites
 
 ------
 
