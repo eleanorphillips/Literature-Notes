@@ -67,7 +67,7 @@
 * [Page 60:  ](#id-section60).2017.12.21 Acka et al. 2014 Anti-feedant neem and Hyphantria cunea (Lepidoptera: Arctiidae)
 * [Page 61:  ](#id-section61).2017.12.22 Furtado et al. 2016 Evaluating potential olive orchard sugar food sources for the olive fly parasitoid *Psyttalia concolor* 
 * [Page 62:  ](#id-section62).2017.12.23 Benavente-García et al. 1999 Antioxidant phenolics olive leaves
-* [Page 63:  ](#id-section63).
+* [Page 63:  ](#id-section63).2017.12.26 Noyes and Falladzadeh 2005 Encyrtid from Irna, a new parasitoid of iranian psyllid
 * [Page 64:  ](#id-section64).
 * [Page 65:  ](#id-section65).
 * [Page 66:  ](#id-section66).
@@ -1561,7 +1561,21 @@ Benavente-García O, Castillo J, Lorente J, Ortuño A, Del Rio JA. 1999. Antioxi
 
 <div id='id-section63'/>    
 ​    
-### Page 63:  
+### Page 63:2017.12.26 Noyes and Falladzadeh 2005 *Psyllaephagus zdeneki* sp. nov. from Iran, a parasitoid of *Euphyllura pakistanica*   
+
+*Citation information*
+
+Noyes JS, Fallahzadeh M. 2005. *Psyllaephagus zdeneki* sp. nov. (Hymenoptera: Encyrtidae) from Iran, a parasitoid of *Euphyllura pakistantica* (Hemiptera: Psyllidae). Acta Societatis Zoologicae Bohemicae 69: 203-208. 
+
+- *E. pakistanica* is most important pest of olives in Iran
+  - 2 generations/year
+  - overwingters ias an adult on shoots and suckers
+  - adults then mate in March, lay eggs on terminal buds in April
+  - 5 mymphal instars of 28-30 day dev period after eggs hatch in 8-10 days
+  - second generation appears in late October
+  - *Psyllaephagus* parasitoids are exclusively jumping plant parasitoids
+- Descripption of the new spp
+- *Psyllaephagus zdeneki*  
 
 ------
 
