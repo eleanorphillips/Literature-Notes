@@ -68,7 +68,7 @@
 * [Page 61:  ](#id-section61).2017.12.22 Furtado et al. 2016 Evaluating potential olive orchard sugar food sources for the olive fly parasitoid *Psyttalia concolor* 
 * [Page 62:  ](#id-section62).2017.12.23 Benavente-García et al. 1999 Antioxidant phenolics olive leaves
 * [Page 63:  ](#id-section63).2017.12.26 Noyes and Falladzadeh 2005 Encyrtid from Irna, a new parasitoid of iranian psyllid
-* [Page 64:  ](#id-section64).
+* [Page 64:  ](#id-section64).2018.1.4 Hasgempour et al. Phys and biochem response of olive to freeze stress treated w/Salicylic acid
 * [Page 65:  ](#id-section65).
 * [Page 66:  ](#id-section66).
 * [Page 67:  ](#id-section67).
@@ -1581,7 +1581,22 @@ Noyes JS, Fallahzadeh M. 2005. *Psyllaephagus zdeneki* sp. nov. (Hymenoptera: En
 
 <div id='id-section64'/>    
 ​    
-### Page 64:  
+### Page 64:2018.1.4 Hashempour et al. 2013 Phys and biochem responses to freezing stress of olive plants treated w/salicylic acid  
+
+*Citation information*
+
+Hashempour A, Ghasemnezhad M, Gotouhi Ghazvini R, Sohani MM. 2013 The physiological and biochemical responses to freezing stress of olive plants treated with salicylic acid. Russian Journal of Physiology 61: 443-450. 
+
+- One-year-old (young) olive plants treated with salicylic acid, and then exposed to freezing and non-freezing temps
+- SA-induced freezing tolerance accompanied by increased activities of antioxiant enzymes, i.e. guaiacol peroxidase, catalase, ascorbate peroxidase, an polyphenol oxidase when compared to control plants
+- suitable concentration of 1mM SA could enhace freezing tolerance of olive via increase in antioxidant enzyme activities and decreasing MDA content thru cell membrane integrity maintenance 
+- Salicylic acid is a hormone-like substance w/ubiquitous distribution among plants
+  - natural signal molecule for activation of plant defense
+  - role in modulation of reponse to abiotic factors including freezing
+- Study done on frost-sensitive cultivars
+  - would be interesting to do on ones known to be more tolerant
+- MDA= lipid peroxidation
+  - membrane damage 
 
 ------
 
