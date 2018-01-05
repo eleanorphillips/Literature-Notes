@@ -69,7 +69,7 @@
 * [Page 62:  ](#id-section62).2017.12.23 Benavente-García et al. 1999 Antioxidant phenolics olive leaves
 * [Page 63:  ](#id-section63).2017.12.26 Noyes and Falladzadeh 2005 Encyrtid from Irna, a new parasitoid of iranian psyllid
 * [Page 64:  ](#id-section64).2018.1.4 Hasgempour et al. Phys and biochem response of olive to freeze stress treated w/Salicylic acid
-* [Page 65:  ](#id-section65).
+* [Page 65:  ](#id-section65).2018.1.5 Huffaker et al. parasitism and denisities of olive scale & ecological theory
 * [Page 66:  ](#id-section66).
 * [Page 67:  ](#id-section67).
 * [Page 68:  ](#id-section68).
@@ -1602,7 +1602,16 @@ Hashempour A, Ghasemnezhad M, Gotouhi Ghazvini R, Sohani MM. 2013 The physiologi
 
 <div id='id-section65'/>    
 ​    
-### Page 65:  
+### Page 65:2018.1.5 Huffaker et al. 1986 parasitism, densities, ecological theory   
+
+*Citation information*
+
+Huffaker CB, Kennett CE, Tassan RL. 1986. Comparisons of parasitism and densities of *Parlatoria oleae* (1952-1982) in relation to ecological theory. The American Naturalist 128:379-393. 
+
+- firm establishment of *Aphyis paramaculicornis* DeBach and Rosen helped successfully control the olive scale in California.
+- Also, parasitoid *Coccophagoides utilis* Doutt aided the control and improved the degree of control in 1962
+  - *C. utilis* is from Pakistan
+- Both Aphelinidae parasitoids
 
 ------
 
