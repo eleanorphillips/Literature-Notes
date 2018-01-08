@@ -70,7 +70,7 @@
 * [Page 63:  ](#id-section63).2017.12.26 Noyes and Falladzadeh 2005 Encyrtid from Irna, a new parasitoid of iranian psyllid
 * [Page 64:  ](#id-section64).2018.1.4 Hasgempour et al. Phys and biochem response of olive to freeze stress treated w/Salicylic acid
 * [Page 65:  ](#id-section65).2018.1.5 Huffaker et al. parasitism and denisities of olive scale & ecological theory
-* [Page 66:  ](#id-section66).
+* [Page 66:  ](#id-section66).2018.1.8 Cruaud et al. 2018 using insects to detect, monitor and predict the distribution of Xylella fastidiosa: a case study in Corsica
 * [Page 67:  ](#id-section67).
 * [Page 68:  ](#id-section68).
 * [Page 69:  ](#id-section69).
@@ -1617,7 +1617,20 @@ Huffaker CB, Kennett CE, Tassan RL. 1986. Comparisons of parasitism and densitie
 
 <div id='id-section66'/>    
 ​    
-### Page 66:  
+### Page 66:2018.1.8 Cruaud et al. 2018 Using insects to detect, monitor and predict dist of *Xylella fastidiosa* : a case study in Corsica  
+
+*Citation information*
+
+Cruaud A, Gonzalex A-A, Godefroid M, Nidelet S, Streito J-C, Thuilier J-M, Rossi J-P, Santoni S, Rasplus J-Y. Using insects to detect, monitor and predict the distribution of *Xylella fastidiosa*: A case setudy in Corsica. bioRxiv doi: https://doi.org/10.1101/241513  
+
+- insect vectors can be used to detect, monitor and predict dist of *Xylella fastidiosa* 
+- Widely used qPCR not sensitive enought ot detect low bacterial load
+- Diff strains and subspecies of *Xf* present in Corsica, indicating old introductions 
+- urgent need to avoid unnecessary economic pressure 
+- meadow spittlebug *Philaenus spumarius* effective vector for *Xf* in S Italy 
+  - Only buggos sampled 
+- DNA extraction 
+  - nested PCR
 
 ------
 
