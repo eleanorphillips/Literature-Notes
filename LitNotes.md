@@ -71,7 +71,7 @@
 * [Page 64:  ](#id-section64).2018.1.4 Hasgempour et al. Phys and biochem response of olive to freeze stress treated w/Salicylic acid
 * [Page 65:  ](#id-section65).2018.1.5 Huffaker et al. parasitism and denisities of olive scale & ecological theory
 * [Page 66:  ](#id-section66).2018.1.8 Cruaud et al. 2018 using insects to detect, monitor and predict the distribution of Xylella fastidiosa: a case study in Corsica
-* [Page 67:  ](#id-section67).
+* [Page 67:  ](#id-section67).2018.1.10 Hegazi et al. 2014 population dynamics and economic losses caused by a cryptic woo-borer moth in an olive orchard in Egypt 
 * [Page 68:  ](#id-section68).
 * [Page 69:  ](#id-section69).
 * [Page 70:  ](#id-section70).
@@ -1636,7 +1636,23 @@ Cruaud A, Gonzalex A-A, Godefroid M, Nidelet S, Streito J-C, Thuilier J-M, Rossi
 
 <div id='id-section67'/>    
 ​    
-### Page 67:  
+### Page 67:2018.1.10 Hegazi et al. 2014 Population dynamics, econ losses, caused by *Zeuzera pyrina*, a cryptic wood-borere moth, in an olive orchard in Egypt  
+
+*Citation information*
+
+Hegazi E, Schlyter F, Khafagi W, Atwa A, Agamy E, Konstantopoulou M. 2014. Population dynamics and economic losses caused by *Zeuzera pyrina*, a cryptic wood-borer moth, in an olive orchard in Egypt. Agricultural and Forest Entomology DOI: 10.1111/afe.12075. 
+
+- *Zeuzera pyrina* common name leopard moth is invasive to Europe and increasing in significance in North Africa
+- 10 year period of study 
+- less infestation by intercropping w/resistant varieties to aid in ZP management 
+- temporal ans spatial dynamics important in variation in moth host plant 
+- larvae cryptic wood borers 
+- ​
+
+
+​			
+​		
+​	
 
 ------
 
