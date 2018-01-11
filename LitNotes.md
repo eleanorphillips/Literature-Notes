@@ -72,7 +72,7 @@
 * [Page 65:  ](#id-section65).2018.1.5 Huffaker et al. parasitism and denisities of olive scale & ecological theory
 * [Page 66:  ](#id-section66).2018.1.8 Cruaud et al. 2018 using insects to detect, monitor and predict the distribution of Xylella fastidiosa: a case study in Corsica
 * [Page 67:  ](#id-section67).2018.1.10 Hegazi et al. 2014 population dynamics and economic losses caused by a cryptic woo-borer moth in an olive orchard in Egypt 
-* [Page 68:  ](#id-section68).
+* [Page 68:  ](#id-section68).2018.1.11 Weppler et al. 2003 Studies on rearing *Metaphycus helvolus* (Hymenoptera: Encyrtidae) for augmentative release against black scale (Homoptera: Coccidae) on citrus in CA
 * [Page 69:  ](#id-section69).
 * [Page 70:  ](#id-section70).
 * [Page 71:  ](#id-section71).
@@ -1647,18 +1647,27 @@ Hegazi E, Schlyter F, Khafagi W, Atwa A, Agamy E, Konstantopoulou M. 2014. Popul
 - less infestation by intercropping w/resistant varieties to aid in ZP management 
 - temporal ans spatial dynamics important in variation in moth host plant 
 - larvae cryptic wood borers 
-- ​
 
-
-​			
-​		
-​	
 
 ------
 
 <div id='id-section68'/>    
 ​    
-### Page 68:  
+### Page 68: Weppler et al. 2003 Studies on rearing *Metaphycus helvolus* (Hymenoptera: Encyrtidae) for augmentative release against black scale (Homoptera: Coccidae) on citrus in CA.   
+
+*Citiation information*
+
+Weppler RA, Luck RF, morse JG. 2003. Studies onrearing *Metaphycus helvolus* (Hymenoptera: Encyrtidae) for augmentative release against black scale (Homoptera: Coccidae) on citrus in California. Biological Control 28: 118-128. 
+
+- scale reared on 3-yr-old olearner plants, tended to be smaller on leaves than those on stems, largest were on green stems (>3mm in diameter)
+- Many scales were below optimal size range for parasitization when *M. helvolus* was released to oviposit
+- majority of parasitoids were produced from scale on large green stems
+- sex ratio near 1:1 of *M. helvolus* 
+- natural enemy interference after use of pesticides, ant interference, or dust. also severe weather
+- over 50 natural enemies of black scale reported, none determined to control popiulations below Econ. damaging levels consistently
+- *M helvolus* also attacks citricola scale
+- optimal size for oviposition is mass of 0.6-1.6mm2
+- *Yucca* host for *m. helvolus* 
 
 ------
 
