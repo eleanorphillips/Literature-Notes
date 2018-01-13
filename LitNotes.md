@@ -73,7 +73,7 @@
 * [Page 66:  ](#id-section66).2018.1.8 Cruaud et al. 2018 using insects to detect, monitor and predict the distribution of Xylella fastidiosa: a case study in Corsica
 * [Page 67:  ](#id-section67).2018.1.10 Hegazi et al. 2014 population dynamics and economic losses caused by a cryptic woo-borer moth in an olive orchard in Egypt 
 * [Page 68:  ](#id-section68).2018.1.11 Weppler et al. 2003 Studies on rearing *Metaphycus helvolus* (Hymenoptera: Encyrtidae) for augmentative release against black scale (Homoptera: Coccidae) on citrus in CA
-* [Page 69:  ](#id-section69).
+* [Page 69:  ](#id-section69).2018.1.13 Lampson and MOrse 1992 A survey of black scale *Saissetia oleae* parasitoids in Southern California
 * [Page 70:  ](#id-section70).
 * [Page 71:  ](#id-section71).
 * [Page 72:  ](#id-section72).
@@ -1673,12 +1673,29 @@ Weppler RA, Luck RF, morse JG. 2003. Studies onrearing *Metaphycus helvolus* (Hy
 
 <div id='id-section69'/>    
 ​    
-### Page 69:  
+### Page 69:2018.1.13 Lampson and Morse 1992 A survey of black scale parasitoids in Southern California  
+
+*Citation information*
+
+Lampson LJ, Morse JG. 1992. A survey of black scale, *Saissetia oleae* [Hom: Coccidae] parasitoids [Hym: Chalcidoidea] in Southern California. Entomophaga 373-390. 
+
+- 2 year survey. Sept 1987-Sept 1989. 
+- 308 collections of black scale-infested citrus, olvie and oleander twigs form 19 sites in southern CA, 1,610 specimens collected
+- 9 primary, 6 secondary parasitoid spp ID'd
+  - 4 primary abundant = *Metaphycus bartletti*, *M. helvolus, Scutellista caerulea, & Diversinervus elegans*. 
+  - Most common secondary = *Marietta mexicana, Cheiloneurus noxius, & Tetrastichus minutus*. 
+- Coastal region = *M. bartletti* most abundant, then *D. elegans, S. caerulea* & *M. helvolus*
+- intermediate and interior regions = *M. helvolus* most abundant
+- great list of introduced parasitoids, their origin and establishment success
+- I really like their distribution graphs :) 
+- ![Screen Shot 2018-01-13 at 3.25.48 PM](/Users/eleanorphillips/Desktop/Screen Shot 2018-01-13 at 3.25.48 PM.png)
 
 ------
 
 <div id='id-section70'/>    
+
 ​    
+
 ### Page 70:  
 
 ------
