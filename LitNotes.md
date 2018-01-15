@@ -74,7 +74,7 @@
 * [Page 67:  ](#id-section67).2018.1.10 Hegazi et al. 2014 population dynamics and economic losses caused by a cryptic woo-borer moth in an olive orchard in Egypt 
 * [Page 68:  ](#id-section68).2018.1.11 Weppler et al. 2003 Studies on rearing *Metaphycus helvolus* (Hymenoptera: Encyrtidae) for augmentative release against black scale (Homoptera: Coccidae) on citrus in CA
 * [Page 69:  ](#id-section69).2018.1.13 Lampson and MOrse 1992 A survey of black scale *Saissetia oleae* parasitoids in Southern California
-* [Page 70:  ](#id-section70).
+* [Page 70:  ](#id-section70).2018.1.15 Hywel-Jones and Samuels 1998 Three spp of *Hypocrella* with large stromata pathogenic on scale insects. 
 * [Page 71:  ](#id-section71).
 * [Page 72:  ](#id-section72).
 * [Page 73:  ](#id-section73).
@@ -1696,7 +1696,16 @@ Lampson LJ, Morse JG. 1992. A survey of black scale, *Saissetia oleae* [Hom: Coc
 
 ​    
 
-### Page 70:  
+### Page 70:2018.1.15 Hywel-Jones and Samuels 1998 Three species of *Hypocrella* with large stromata pathogenic on scale insects  
+
+*Citation information*
+
+Hywel-Jones NL, Samuels GJ. 1998. Three species of *Hypocrella* with large stromata pathogenic on scale insects. Mycologica 90: 36-46. 
+
+- Association with scale insects
+- occur on iummature stages of scale insects in Aleyrodidae and Coccidae
+- Anamorphs in the coelomycete genus *Aschersonia* are not 
+- link to culturing and gathering the fungi 
 
 ------
 
