@@ -75,7 +75,7 @@
 * [Page 68:  ](#id-section68).2018.1.11 Weppler et al. 2003 Studies on rearing *Metaphycus helvolus* (Hymenoptera: Encyrtidae) for augmentative release against black scale (Homoptera: Coccidae) on citrus in CA
 * [Page 69:  ](#id-section69).2018.1.13 Lampson and MOrse 1992 A survey of black scale *Saissetia oleae* parasitoids in Southern California
 * [Page 70:  ](#id-section70).2018.1.15 Hywel-Jones and Samuels 1998 Three spp of *Hypocrella* with large stromata pathogenic on scale insects. 
-* [Page 71:  ](#id-section71).
+* [Page 71:  ](#id-section71).2018.1.17 Salman et al. 2011 Evaluation of th eincidence and severity of olive leaf spot caused by *Spilocaea oleagina* on olive trees in Palestine 
 * [Page 72:  ](#id-section72).
 * [Page 73:  ](#id-section73).
 * [Page 74:  ](#id-section74).
@@ -1711,7 +1711,20 @@ Hywel-Jones NL, Samuels GJ. 1998. Three species of *Hypocrella* with large strom
 
 <div id='id-section71'/>    
 ​    
-### Page 71:  
+### Page 71:2018.1.17 Salman et al. 2011 Evaluation of incidence and severity of olive leaf spot on olive trees in Palestine   
+
+*Citation information*
+
+Salman M, Hawamda A-A, Amarni AA-A, Rahil M, Hajjeh H, Natsheh B, Abuamsha R. 2011. Evaluation of the incidence and severity of olive leaf spot caused by *Spilocaea oleagina* on olive trees in Palestine. American Journal of Plant Sciences 2: 457-460. 
+
+- 45% of Palestinian agricultural land
+- olive leaf spot is also known as Peacock Spot disease, and is a fungal pathogen
+- symptoms are darks green to black spots surrounded by a yellow halo on leaves
+- petioles, fruit and stems susceptible also, rareply have lesions
+- results in severe premature defoliation of olive, tug death, loss in crop yield
+- chemical fungicides principle method of control
+  - copper-containing 
+- field assessment involved counting and creating gradation by number of lesions 
 
 ------
 
