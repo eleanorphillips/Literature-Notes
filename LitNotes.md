@@ -76,7 +76,7 @@
 * [Page 69:  ](#id-section69).2018.1.13 Lampson and MOrse 1992 A survey of black scale *Saissetia oleae* parasitoids in Southern California
 * [Page 70:  ](#id-section70).2018.1.15 Hywel-Jones and Samuels 1998 Three spp of *Hypocrella* with large stromata pathogenic on scale insects. 
 * [Page 71:  ](#id-section71).2018.1.17 Salman et al. 2011 Evaluation of th eincidence and severity of olive leaf spot caused by *Spilocaea oleagina* on olive trees in Palestine 
-* [Page 72:  ](#id-section72).
+* [Page 72:  ](#id-section72).2018.1.18 van Asch et al. 2014 mitochondrial genome of olive moth 
 * [Page 73:  ](#id-section73).
 * [Page 74:  ](#id-section74).
 * [Page 75:  ](#id-section75).
@@ -1730,7 +1730,15 @@ Salman M, Hawamda A-A, Amarni AA-A, Rahil M, Hajjeh H, Natsheh B, Abuamsha R. 20
 
 <div id='id-section72'/>    
 ​    
-### Page 72:  
+### Page 72:2018.1.18 van Asch et al. 2014 The mitochondrial genome of *Prays oleae* (Insecta: Lepidoptera: Praydidae)  
+
+*Citation information*
+
+van Asch B, Bilbech I, Pereira-Castro I, Trindade Rei F, da Costa LT. 2014. The mitochondrial genome of *Prays oleae* (Insecta: Lepidoptera: Praydidae). The Journal of DNA Mapping, Sequencing & Analysis 27: 2108-2109. 
+
+- genetic info is scarce for this superfamily
+- PCR amplification used 
+- info to be useful in population genetic studies 
 
 ------
 
