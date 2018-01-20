@@ -77,7 +77,7 @@
 * [Page 70:  ](#id-section70).2018.1.15 Hywel-Jones and Samuels 1998 Three spp of *Hypocrella* with large stromata pathogenic on scale insects. 
 * [Page 71:  ](#id-section71).2018.1.17 Salman et al. 2011 Evaluation of th eincidence and severity of olive leaf spot caused by *Spilocaea oleagina* on olive trees in Palestine 
 * [Page 72:  ](#id-section72).2018.1.18 van Asch et al. 2014 mitochondrial genome of olive moth 
-* [Page 73:  ](#id-section73).
+* [Page 73:  ](#id-section73).2018.1.20 Úrbez-Torres et al. 2013 Olive twig and branch dieback: Etiology, incidence, and distribution in California
 * [Page 74:  ](#id-section74).
 * [Page 75:  ](#id-section75).
 * [Page 76:  ](#id-section76).
@@ -1744,7 +1744,14 @@ van Asch B, Bilbech I, Pereira-Castro I, Trindade Rei F, da Costa LT. 2014. The 
 
 <div id='id-section73'/>    
 ​    
-### Page 73:  
+### Page 73: 2018.1.20 Úrbez-Torres et al. 2013 Olive twig and branch dieback: Etiology, incidence, and distribution in California  
+
+*Citation information*
+
+Úrbez-Torres JR, Peduto F, Vossen PM, Krueger WH, Gubler WD. 2013. Olive twig and branch dieback: Etiology, incidence and distribution in California. Plant Disease 97: 231-244. 
+
+- *Botryospheria dothidea*, *Colletotrichum acutatum* &/or *Colletotrichum gloeosporioides*, and *Psudomonas* *syringae* pv *savastanoi*, and *Verticilium dahliae* most economically imp and well studied diseases of olive 
+- olive twig and dieback has also been associated w/fungus *Phoma incompta* in Greece, as well as *Cytospora oleina* and *Eutypa lata* 
 
 ------
 
