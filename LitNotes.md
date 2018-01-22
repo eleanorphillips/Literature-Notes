@@ -78,7 +78,7 @@
 * [Page 71:  ](#id-section71).2018.1.17 Salman et al. 2011 Evaluation of th eincidence and severity of olive leaf spot caused by *Spilocaea oleagina* on olive trees in Palestine 
 * [Page 72:  ](#id-section72).2018.1.18 van Asch et al. 2014 mitochondrial genome of olive moth 
 * [Page 73:  ](#id-section73).2018.1.20 Úrbez-Torres et al. 2013 Olive twig and branch dieback: Etiology, incidence, and distribution in California
-* [Page 74:  ](#id-section74).
+* [Page 74:  ](#id-section74).2018.1.22 Leiva et al. 2013 *Agistemus aimogastaensis* Acari recently discovered predator of eriophyid mites *Aceria oleae & Oxycenus maxwelli* in olive orchards in Argentina
 * [Page 75:  ](#id-section75).
 * [Page 76:  ](#id-section76).
 * [Page 77:  ](#id-section77).
@@ -1757,7 +1757,19 @@ van Asch B, Bilbech I, Pereira-Castro I, Trindade Rei F, da Costa LT. 2014. The 
 
 <div id='id-section74'/>    
 ​    
-### Page 74:  
+### Page 74: 1.22.2018 Levia et al. 2013 predators of eriophyid mites in Argentina  
+
+*Citation information*
+
+Levia S, Fernandez N, Theron P, Rollard C. 2013. *Agistemis aimogastaensis* sp. n. (Acari, Actinedida, Stigmaeidae), a recently discovered predator of eriophyid mites *Aceria oleae* and *Oxycenus maxwelli*, in olive orchards in Argentina. ZooKeys 312:65-78. 
+
+- new species description
+- spp of genus *Agistemus* considered important predators on phytophagous mites, **scales** and their eggs! 
+- little known abt the genus as predators in olive orchards
+- good paper on new spp descriptions, diagrams, photos
+- great photos showing damage of mites, both leaves and fruit
+- Eryiohyid mites more a problem in young trees and greenhouses, high humidity high temps
+- biocontrol possibilities 
 
 ------
 
