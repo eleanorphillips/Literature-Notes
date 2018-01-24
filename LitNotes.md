@@ -79,7 +79,7 @@
 * [Page 72:  ](#id-section72).2018.1.18 van Asch et al. 2014 mitochondrial genome of olive moth 
 * [Page 73:  ](#id-section73).2018.1.20 Úrbez-Torres et al. 2013 Olive twig and branch dieback: Etiology, incidence, and distribution in California
 * [Page 74:  ](#id-section74).2018.1.22 Leiva et al. 2013 *Agistemus aimogastaensis* Acari recently discovered predator of eriophyid mites *Aceria oleae & Oxycenus maxwelli* in olive orchards in Argentina
-* [Page 75:  ](#id-section75).
+* [Page 75:  ](#id-section75).2018.1.24 Porras-Soriano et al. 2009 Arbuscular mycorrhizal fungi increased growth, nutrient uptake and tolerance to salinity in olive trees under nursery conditions. 
 * [Page 76:  ](#id-section76).
 * [Page 77:  ](#id-section77).
 * [Page 78:  ](#id-section78).
@@ -1775,7 +1775,24 @@ Levia S, Fernandez N, Theron P, Rollard C. 2013. *Agistemis aimogastaensis* sp. 
 
 <div id='id-section75'/>    
 ​    
-### Page 75:  
+### Page 75:2018.1.24 Porras-Soriano et al. 2009 Arbuscular mycorrhizal fungi increased growth, nutrient uptake and tolerance to salinity in olive trees under nursery conditions   
+
+*Citation information*
+
+Porras-Soriano A, Soriano-Martín MA, Porras-Piedra A, Azcón R. 2009. Arbuscular mycorrhizal fungi increased growth, nutrient uptake and tolerance to salinity in olive trees under nursery conditions.   Journal of Plant Physiology 166: 1350-1359. 
+
+- AMF = arbuscular mycorrhizal fungi *Glomus mosseae, Glomus intraradices or Glomus claroideum* increased plant growth and the ability to acquire N, P, K from non-saline and saline media
+- AMF inc survival rate after transplant
+- *G*. *mosseae* most efficient fungus in reducing detrimental effects of salinity
+- huge percent increase in growth rate of shoots and roots 
+- new olive orchards are usually planted from mist-propagated plants from hardwood cuttings in Spain
+- shortening juvenile period of plants is economic goal, achieved greater growth w/AMF
+- Salinity stresses olives 3 ways 
+  1. low water potential in root medium leads to water deficit
+  2. toxic effects of ions, predominately Na and Cl
+  3. nutrient imbalance without wateer to uptake and transport throughout the plant
+- micropopogation studies w/olive and AMF (Calvente et al. , 2004)
+- ​
 
 ------
 
