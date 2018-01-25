@@ -80,7 +80,7 @@
 * [Page 73:  ](#id-section73).2018.1.20 Úrbez-Torres et al. 2013 Olive twig and branch dieback: Etiology, incidence, and distribution in California
 * [Page 74:  ](#id-section74).2018.1.22 Leiva et al. 2013 *Agistemus aimogastaensis* Acari recently discovered predator of eriophyid mites *Aceria oleae & Oxycenus maxwelli* in olive orchards in Argentina
 * [Page 75:  ](#id-section75).2018.1.24 Porras-Soriano et al. 2009 Arbuscular mycorrhizal fungi increased growth, nutrient uptake and tolerance to salinity in olive trees under nursery conditions. 
-* [Page 76:  ](#id-section76).
+* [Page 76:  ](#id-section76).2018.1.25 Lima et al. 2008 Control of *Verticillium dahliae*by adding olive mill waste to the rhizosphere of nursery grown plants
 * [Page 77:  ](#id-section77).
 * [Page 78:  ](#id-section78).
 * [Page 79:  ](#id-section79).
@@ -1798,7 +1798,17 @@ Porras-Soriano A, Soriano-Martín MA, Porras-Piedra A, Azcón R. 2009. Arbuscula
 
 <div id='id-section76'/>    
 ​    
-### Page 76:  
+### Page 76:2018.1.25 Lima et al. 2008 Control of *Verticillium dahliae* by adding olive mill waste to rhizosphere of nursery grown plants  
+
+*Citaiton information*
+
+Lima G, Vitullo D, Altieri R, Esposito A, Nigro F, Pentimone I, Alfano G, Ranalli G. 2009 Control of *Verticillium dahliae* by adding olive mill waste to the rhizosphere of nursery grown plants. 4th European BioRemediation Conference ID 85: 1-4. 
+
+- Methyl bromide ban —was used for soil disinfestation 
+- 2 olive mill waste matrices were tested
+- *V dahliae* is fungal pathogen
+- only in nursery conditions
+- climatic conditions may have bene dominating factors in plant mortality than *V dahliae* 
 
 ------
 
