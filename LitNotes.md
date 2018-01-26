@@ -81,7 +81,7 @@
 * [Page 74:  ](#id-section74).2018.1.22 Leiva et al. 2013 *Agistemus aimogastaensis* Acari recently discovered predator of eriophyid mites *Aceria oleae & Oxycenus maxwelli* in olive orchards in Argentina
 * [Page 75:  ](#id-section75).2018.1.24 Porras-Soriano et al. 2009 Arbuscular mycorrhizal fungi increased growth, nutrient uptake and tolerance to salinity in olive trees under nursery conditions. 
 * [Page 76:  ](#id-section76).2018.1.25 Lima et al. 2008 Control of *Verticillium dahliae*by adding olive mill waste to the rhizosphere of nursery grown plants
-* [Page 77:  ](#id-section77).
+* [Page 77:  ](#id-section77).2018.1.26 Kaltsas et al. 2007 Energy budget in organic and conventional olive groves
 * [Page 78:  ](#id-section78).
 * [Page 79:  ](#id-section79).
 * [Page 80:  ](#id-section80).
@@ -1814,7 +1814,15 @@ Lima G, Vitullo D, Altieri R, Esposito A, Nigro F, Pentimone I, Alfano G, Ranall
 
 <div id='id-section77'/>    
 ​    
-### Page 77:  
+### Page 77:2018.1.26 Kaltsas et al. 2007 Energy budget in organic and conventional olive groves  
+
+*Citation information*
+
+Kaltsas AM, Mamolos AP, Tsatsarelis CA, Nanos GD, Kalburtji KL. 2007. Energy budget in organic and conventional olive groves. Agriculture, Ecosystems and Environment 122:  243-251. 
+
+- Energy and economic analysis in conventional and organic to determine best management strategies is useful
+- Maximum elevation in Mediterranean olive groves is 600 m 
+- organic = lower CO2 emissions 
 
 ------
 
