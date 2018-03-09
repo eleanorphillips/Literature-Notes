@@ -82,7 +82,9 @@
 * [Page 75:  ](#id-section75).2018.1.24 Porras-Soriano et al. 2009 Arbuscular mycorrhizal fungi increased growth, nutrient uptake and tolerance to salinity in olive trees under nursery conditions. 
 * [Page 76:  ](#id-section76).2018.1.25 Lima et al. 2008 Control of *Verticillium dahliae*by adding olive mill waste to the rhizosphere of nursery grown plants
 * [Page 77:  ](#id-section77).2018.1.26 Kaltsas et al. 2007 Energy budget in organic and conventional olive groves
-* [Page 78:  ](#id-section78).
+* [Page 78:  ](#id-section78).2018.3.9 . Morrison-Whittle et al. 2017 Fungal communities are differentially affected
+  by conventional and biodynamic agricultural management approaches in vineyard
+  ecosystems.
 * [Page 79:  ](#id-section79).
 * [Page 80:  ](#id-section80).
 * [Page 81:  ](#id-section81).
@@ -1828,7 +1830,13 @@ Kaltsas AM, Mamolos AP, Tsatsarelis CA, Nanos GD, Kalburtji KL. 2007. Energy bud
 
 <div id='id-section78'/>    
 ​    
-### Page 78:  
+### Page 78:2018.3.9 Morrison-Whittle, P., Lee, S. A., and M. R. Goddard. Fungal communities are differentially affected by conventional and biodynamic agricultural management approaches in vineyard ecosystems         
+
+*Citation information*
+
+Morrison-Whittle, P., Lee, S. A., and M. R. Goddard. Fungal communities are differentially affected by conventional and biodynamic agricultural management approaches in vineyard ecosystems. Agriculture,Ecosystems and Environment 246: 306-313. 
+
+![Screen Shot 2018-03-09 at 9.54.31 AM](/Users/eleanorphillips/Desktop/Screen Shot 2018-03-09 at 9.54.31 AM.png)
 
 ------
 
