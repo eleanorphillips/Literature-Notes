@@ -83,9 +83,8 @@
 * [Page 76:  ](#id-section76).2018.1.25 Lima et al. 2008 Control of *Verticillium dahliae*by adding olive mill waste to the rhizosphere of nursery grown plants
 * [Page 77:  ](#id-section77).2018.1.26 Kaltsas et al. 2007 Energy budget in organic and conventional olive groves
 * [Page 78:  ](#id-section78).2018.3.9 . Morrison-Whittle et al. 2017 Fungal communities are differentially affected
-  by conventional and biodynamic agricultural management approaches in vineyard
-  ecosystems.
-* [Page 79:  ](#id-section79).
+  by conventional and biodynamic agricultural management approaches in vineyard ecosystems.
+* [Page 79:  ](#id-section79).2018.3.22 Morente et al. 2018 Evaluation of two different methods to measure the effects of the management regime on the olive-canopy arthropod community
 * [Page 80:  ](#id-section80).
 * [Page 81:  ](#id-section81).
 * [Page 82:  ](#id-section82).
@@ -1842,7 +1841,32 @@ Morrison-Whittle, P., Lee, S. A., and M. R. Goddard. Fungal communities are diff
 
 <div id='id-section79'/>    
 ​    
-### Page 79:  
+### Page 79: 2018.3.22 Morente et al. 2018 Evaluation of two different methods to measure the effects of the management regime on the olive-canopy arthropod community  
+
+*Citation information*
+
+Morente M, Campos M, Ruano F. 2018 Evaluation of two different methods to measure the effects of the management regime on the olive-canopy arthropod community. Agriculture, Ecosystems and Environme t 259: 111-118. 
+
+- Management regimes differentiatied by use of pesticides or not and that choice's effects on biodiviersity 
+- done during the blooming season
+- numbers compared total arthropods and arthropods in different feeding guilds
+- six conventional and six organic groves in Granada (Andalusia, south-east Spain)
+  - just one year (2003)
+  - ​
+- periods of greatest diversity and abundance = pre-bloom and post-blooms
+- Predator, parasitoid and phytophagous abundance, total and predator richness greater in post-blooming season
+- Shannon-Weaver diversity index yielded a useful food web 
+- organic pesticides may have some negative impact on arthropod community in olives (Ruiz and Montiel 2007, Scalercio et al. 2009)
+- food web complexity—interesting model i have not seen before!
+- olive groves show greatest arthropod abundances during May and June 
+- remains unknown how presence of flowers and pollen affect ecosystem of olive canopies 
+  - may increase presence & # of phytophagous insects 
+- Table 1. i like a lot and Figure one oh wow golly 
+- justification for diversity analysis in conservation studies where number of taxa is very high = Williams and Gaston 1994
+- Parasitoid richness studies have shown inconsistent tendencies ( check these out! )
+- organic mgmt = better function for biological pest control 
+- food-web approach = understanding function of agroecosystems 
+- conventional groves less complex
 
 ------
 
