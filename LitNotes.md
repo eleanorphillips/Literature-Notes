@@ -85,7 +85,7 @@
 * [Page 78:  ](#id-section78).2018.3.9 . Morrison-Whittle et al. 2017 Fungal communities are differentially affected
   by conventional and biodynamic agricultural management approaches in vineyard ecosystems.
 * [Page 79:  ](#id-section79).2018.3.22 Morente et al. 2018 Evaluation of two different methods to measure the effects of the management regime on the olive-canopy arthropod community
-* [Page 80:  ](#id-section80).
+* [Page 80:  ](#id-section80). 2018.3.27 Williams and Gaston 1994 Measuring more of biodiversity: Can higher-taxon richness predict wholesale species richness? 
 * [Page 81:  ](#id-section81).
 * [Page 82:  ](#id-section82).
 * [Page 83:  ](#id-section83).
@@ -618,6 +618,7 @@ Bengochea P, Saelices R, Amor F, Adán A, Budia F, del Estal P, Viñuela E, Medi
 Ruano F, Lozano C, Garcia P, Peña A, Tinaut A, Pascual F, Campos M. 2004. Use of arthropods for the evaluation of the olive-orchard management regimes. Agricultural and Forest Entomology 6: 111-120. 
 
 - Arthropods can be used as indicators of environmental characteristics of agro-ecosystems. 
+- Branch beating method
 - Ants have been documented in other studies as the most abundant taxonomic grouppresent in olive groves, and have been suggested to be indicators of pesticidepollution 
   - Redolfi et al 1999, 
 - Morris 1997; Morris et al. 1999
@@ -1852,7 +1853,6 @@ Morente M, Campos M, Ruano F. 2018 Evaluation of two different methods to measur
 - numbers compared total arthropods and arthropods in different feeding guilds
 - six conventional and six organic groves in Granada (Andalusia, south-east Spain)
   - just one year (2003)
-  - ​
 - periods of greatest diversity and abundance = pre-bloom and post-blooms
 - Predator, parasitoid and phytophagous abundance, total and predator richness greater in post-blooming season
 - Shannon-Weaver diversity index yielded a useful food web 
@@ -1867,12 +1867,24 @@ Morente M, Campos M, Ruano F. 2018 Evaluation of two different methods to measur
 - organic mgmt = better function for biological pest control 
 - food-web approach = understanding function of agroecosystems 
 - conventional groves less complex
+  - may see a result of this after applications in Sx
 
 ------
 
 <div id='id-section80'/>    
 ​    
-### Page 80:  
+### Page 80:2018.3.28 Williams & Gaston higher-taxon richness predict species richness?  
+
+*Citation information*
+
+Williams PH, Gaston KJ. 1994. Measureing more of biodiversity: Can higher-taxon richness predict wholesale species richness. Biological Conservation 67: 211-217. 
+
+- Family richness is a good predicator os spp richness
+- aim is biodiversity estimation and identification effectively $$ and time wise
+- many times, relationship are non-linear, due to high and low levels of environmental variables (Currie, 1991)
+- cost advantage = more readily achieved
+- highly uneven distribution of spp of higher taxa increases rate of sample sorting
+- relationships between orders key
 
 ------
 
