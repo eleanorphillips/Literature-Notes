@@ -11,7 +11,7 @@
 * [Page 4:  ](#id-section4). 2017-10-26 Báidez et al. 2007 *Verticillium dahilae* effects on olive xylem 
 * [Page 5:  ](#id-section5). 2017-10-29 Mkize et al. 2008 A survey of fruit-feeding insects and their parasitoids occurring on wild olives in S Africa
 * [Page 6:  ](#id-section6).2017-10-30 Mekuria et al. 2001 ID of genetic markers & Lin to olive leaf spot resistance/susceptibility 
-* [Page 7:  ](#id-section7).2017-10-31 Benelli and Canale 2016 Aggressive behavior/female fruit fly guarding against parasitoids
+* [Page 7:  ](#id-section7).2017-10-31 Benelli and Canale 2016 Aggressive behavior/female fuit fly guarding against parasitoids
 * [Page 8:  ](#id-section8).2017-11-1 Erel et al. 2013 Impt of olive tree nutritional status on its productivity 
 * [Page 9:  ](#id-section9). 2017-11-3 Benito et al. 2013 Olive oil quality, ripening SHD Arbequina
 * [Page 10:  ](#id-section10).2017-11-4 Grasso et al. 2017 OLF transcriptional response extended differences b/t tolerant & susceptible olive varieties
@@ -86,7 +86,7 @@
   by conventional and biodynamic agricultural management approaches in vineyard ecosystems.
 * [Page 79:  ](#id-section79).2018.3.22 Morente et al. 2018 Evaluation of two different methods to measure the effects of the management regime on the olive-canopy arthropod community
 * [Page 80:  ](#id-section80). 2018.3.27 Williams and Gaston 1994 Measuring more of biodiversity: Can higher-taxon richness predict wholesale species richness? 
-* [Page 81:  ](#id-section81).
+* [Page 81:  ](#id-section81).2018. 7.22. Wilkinson and Friendly 2009 History of the cluster heat map
 * [Page 82:  ](#id-section82).
 * [Page 83:  ](#id-section83).
 * [Page 84:  ](#id-section84).
@@ -1890,13 +1890,31 @@ Williams PH, Gaston KJ. 1994. Measureing more of biodiversity: Can higher-taxon 
 
 <div id='id-section81'/>    
 ​    
-### Page 81:  
+### Page 81:2018.7.22 Wilkinson and Friendly History of the cluster heat map  
+
+*Citation information*
+
+Wilkinson L, Friendly M. 2009. The history of the cluster heat map. The American Statistician. 63: 179-184. 
+
+- modern stats packages like JMP or SYSTAT create heat maps as part of a clustering package
+- some like R and Stats allow you to plot a heat map using any seriation algorithm 
 
 ------
 
 <div id='id-section82'/>    
 ​    
-### Page 82:  
+### Page 82:2018.7.22 Perry et al. 1996 SADIE software  
+
+*Citation information*
+
+Perry NJ, Bell ED, Smith RH, Woiwod IP. 1996. SADIE: Software to measure and model spatial pattern. Aspects of Applied Biology. 46: 95-102. 
+
+- summary stats of sample mean and variance of frequency distribution
+- can also do counts
+- method to detect and measure spatial pattern called Spatial Analysis by Distance IndicEs (SADIE) 
+- advantages: use of spatial data from a sample 
+- requires two dimensional coordinate sof each individual to be specified within a rectangular area. iterative algorithm moves them to other locations 
+- *n* number of indivuduals gives the distance to regularity, *D* 
 
 ------
 
